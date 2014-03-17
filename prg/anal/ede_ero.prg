@@ -1,0 +1,1 @@
+Procedure ede_ero*push key clearselect anallc_loop=.t.do while lc_loop  if not bof()	skip (-1)  else    wait window nowait 'You were at the beginning of the file - starting from the end'    goto bottom  endif  if (drg)<>(drg_ext)     exit  endifenddodo analnaytreturn

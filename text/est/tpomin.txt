@@ -1,0 +1,847 @@
+"";"No procedure property";F;" ";T;F;"";2013/06/05;"Ei toimenpideoiminaisuutta";T
+"00S01";"Liver transplant";T;"0";T;F;"";1996/12/31;"Maksan siirto";T
+"00S02";"Bone marrow transplant";F;"0";T;F;"";1996/12/31;"Luuytimen siirto";T
+"00S03";"Tracheostomy";T;"0";T;F;"";1996/12/31;"Trakeostomia";T
+"00S04";"Lung transplant";T;"0";T;F;"";1996/12/31;"Keuhkonsiirto";T
+"00S05";"Major face, mouth & neck procedure";T;"0";T;F;"";1996/12/31;"Laaja kasvojen, suun tai kaulan toimenpide";T
+"00S06";"Pancreas transplantation";T;"0";T;F;"";2006/04/25;"";T
+"00S07";"Cardiac transplantation";T;"0";T;F;"";/  /;"";T
+"00S10";"General anesthesia";F;"0";T;F;"";/  /;"General anesthesia";T
+"00S20";"Intensive circulatory support";T;"1";T;F;"";2013/06/07;"";T
+"00S99";"Unspecified or impossible procedure";T;"0";T;F;"";2007/04/22;"";F
+"01D01";"Diagnostic procedure of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2004/08/10;"";T
+"01D02";"Demanding diagnostic proc of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2005/01/17;"";T
+"01D21";"Diagn proc of heart, large vessels and other intrathoracal organs in MDC 01";F;"0";T;F;"";2005/01/17;"";T
+"01D22";"Demanding diagn proc of heart, large vessels and other intrathoracic organs in MDC 01";F;"0";T;F;"";2005/01/17;"";T
+"01O01";"CNS cathetrisation";F;"0";T;F;"";/  /;"";T
+"01O02";"Anesthesia for pain";F;"0";T;F;"";/  /;"";F
+"01O03";"Diagnostic test for CNS problems";F;"0";T;F;"";/  /;"";T
+"01O04";"CNS local medication";F;"0";T;F;"";/  /;"";T
+"01O05";"Lumbal puncture";F;"0";T;F;"";/  /;"";T
+"01O06";"Electroencephalogram";F;"0";T;F;"";/  /;"";T
+"01O07";"ENMG and ENG";F;"0";T;F;"";/  /;"";T
+"01O08";"Adjustment of inoperated stimulator or shunt";F;"0";T;F;"";/  /;"";T
+"01O10";"Neurological minor diagnostic interventions";F;"0";T;F;"";/  /;"";T
+"01O11";"Neuropsychological diagnostic interventions";F;"0";T;F;"";/  /;"";T
+"01O12";"Botuinum toxin therapy";F;"0";T;F;"01";/  /;"";T
+"01O13";"Treatemnt with baclofen";F;"0";T;F;"";2009/07/06;"";T
+"01S01";"Craniotomy or intracranial procedure";T;"1";T;F;"01";1996/12/31;"Kraniotomia tai kallonsis‰inen toimenpide";T
+"01S02";"Spinal procedure";T;"1";T;F;"";1996/12/31;"Selk‰ytimen leikkaus";T
+"01S03";"Extracranial vascular procedure";T;"0";T;F;"";1996/12/31;"Kallonulkoinen p‰‰n verisuonten leikkaus";T
+"01S04";"Median nerve operation";T;"0";T;F;"";1996/12/31;"N. medianus leikkaus";T
+"01S05";"Peripheral or cranial nerve or other nervous system procedure";T;"0";T;T;"";1996/12/31;"Hermon leikkaus tai muu neurologisen sairauden leikkaus";F
+"01S20";"Plastic procedure of pharynx";F;"0";T;F;"";1996/12/31;"Nielunalueen plastinen leikkaus";T
+"01S21";"Procedures of sympathic nervous system";T;"0";T;F;"";1997/08/08;"Sympaattisen hermoston toimenpide";T
+"01S22";"Operation for intracranial tumor";F;"0";T;F;"";/  /;"Kallon sis‰isen kasvaimen leikkaus";T
+"01S23";"Intracranial vascular operation";F;"0";T;F;"";2000/10/03;"Kallonsis‰inen verisuonitoimenpide";T
+"01S24";"Intracranial liquor operation";F;"0";T;F;"";/  /;"Kallonsis‰inen toimenpide selk‰ydinnesteen ohjaamiseksi";T
+"01S25";"Removal of chronic subdural hematoma";F;"0";T;F;"01";2000/11/22;"Kroonisen subduraalihematooman poisto";T
+"01S26";"Excision and destruction of intracranial lesion";T;"1";T;F;"01";/  /;"Aivokasvaimen tai aivomuutoksen poisto";T
+"01S27";"Operations for intracranial aneurysm and other vascular lesions";T;"1";T;F;"01";/  /;"Aivovaltimopullistumien leikkaukset ja muut aivoverisuonileikkaukset";T
+"01S28";"Shunt operations on ventricles of brain and  intracerebral cysts";T;"1";T;F;"01";2003/09/05;"Aivonestekierron s‰‰telytoimenpiteet";T
+"01S29";"Evacuation of chronic subdural haematoma";T;"1";T;F;"01";/  /;"Verihyytym‰n poisto kovan aivokalvon alta, krooninen subduraali";T
+"01S50";"Stereotactic intracranial radiotherapy";T;"0";T;F;"01";/  /;"Stereotactic intracranial radiotherapy";T
+"01S51";"Insertion or replacement of nervous system central stimulation device";T;"0";T;F;"";2011/02/08;"";T
+"01T01";"Special medication in neurology";F;"0";T;F;"";2006/01/17;"";F
+"01T02";"Demanding medication in neurology";F;"0";T;F;"";2007/11/14;"";F
+"01T03";"Special demanding medication in neurology";F;"0";T;F;"";2006/01/17;"";F
+"01V01";"CNS catheter procedure";F;"0";T;F;"";/  /;"";T
+"01V02";"Blockade of nerv";F;"0";T;F;"";/  /;"";F
+"01V03";"CNS diagnostic test";F;"0";T;F;"";/  /;"";T
+"01V04";"Direct CNS medication";F;"0";T;F;"";2013/04/29;"";T
+"01V05";"Lumbal puncture";F;"0";T;F;"";/  /;"";F
+"01V06";"EEG";F;"0";T;F;"";/  /;"";T
+"01V07";"EMG or ENG";F;"0";T;F;"";/  /;"";F
+"01V08";"Adjustment of implanted CNS stimulator or shunt";F;"0";T;F;"";/  /;"";T
+"01V09";"Blockade of nerve, demanding";F;"0";T;F;"01";2009/10/07;"";T
+"02D01";"Diagnostic procedure of head, neck and central nervous system in MDC 02";F;"0";T;F;"";2004/08/10;"";T
+"02D02";"Demanding diagn proc of head, neck and central nervous system in MDC 02";F;"0";T;F;"";2005/01/17;"";T
+"02O01";"Major diagnostic intervention of eye";F;"0";T;F;"";2005/10/06;"";T
+"02O02";"Biopsy or other minor diagnostic procedure for eye problem";F;"0";T;F;"";2007/11/13;"";F
+"02O03";"Minor outpatient eye procedure";F;"0";T;F;"";/  /;"";F
+"02O04";"Minor diagnostic intervention of eye";F;"0";T;F;"";/  /;"";T
+"02O05";"Medication to eye";F;"0";T;F;"";/  /;"";F
+"02O06";"Specific drug treatment for eye disorders";F;"0";T;F;"02";2009/07/06;"";T
+"02S01";"Procedure of the orbit";T;"0";T;F;"";1996/12/31;"Silm‰kuopan leikkaus";F
+"02S02";"Procedure of the retina";T;"0";T;F;"";1996/12/31;"Verkkokalvon toimenpide";F
+"02S03";"Extraocular procedure but not procedure of the orbit";T;"0";T;F;"";1996/12/31;"Silm‰nulkoinen leikkaus, ei silm‰munan leikkaus";F
+"02S04";"Intraocular procedure but not procedure of retina, iris or lens";T;"0";T;F;"";1996/12/31;"Silm‰nsis‰inen toimenpide, ei verkkokalvon, v‰rikalvon tai mykiˆn toimenpide";F
+"02S05";"Procedure of the lens";T;"0";T;F;"";1996/12/31;"Mykiˆn toimenpide";F
+"02S06";"Procedure of the iris";T;"0";T;F;"";1996/12/31;"Ensisijaisesti v‰rikalvoon kohdistuva toimenpide";F
+"02S07";"Procedure on vitreous";T;"0";T;F;"";1996/12/31;"Lasiaistoimenpide";T
+"02S20";"Local radiotherapy of the eye";F;"0";T;F;"";2001/08/02;"Silm‰n paikallinen s‰dehoito";T
+"02S21";"Extensive procedure of retina";T;"0";T;F;"02";2003/10/11;"Laaja verkkokalvon toimenpide";T
+"02S22";"Brachytherapy of eye";T;"0";T;F;"02";2007/04/17;"Suonikalvon ja verkkokalvon s‰teilylevyn asennus";T
+"02S23";"Local photocoagulation of retina";F;"0";T;F;"02";2007/04/17;"Verkkokalvon paikallinen fotokokagulaatio";T
+"02S24";"Major eye surgery";T;"0";T;F;"02";2007/04/17;"Major eye surgery";T
+"02T01";"Special medication in ophtalmology";F;"0";T;F;"";/  /;"";T
+"02T02";"Demanding medication in ophtalmology";F;"0";T;F;"";2008/01/15;"";T
+"02V01";"Major diagnostic ophtalmologic test";F;"0";T;F;"";/  /;"";F
+"02V02";"Medication to eye";F;"0";T;F;"";2013/04/29;"";F
+"02V03";"Eye biopsy";F;"0";T;F;"";/  /;"";F
+"02V04";"Therapeutic eye procedure";F;"0";T;F;"";/  /;"";F
+"02V05";"Other diagnostic ophtalmologic test";F;"0";T;F;"";/  /;"";F
+"02V06";"Eye photography";F;"0";T;F;"";/  /;"";F
+"02V07";"Photodynamic therapy of eye";F;"0";T;F;"";/  /;"";T
+"03D01";"Diagnostic procedure of head, neck and central nervous system in MDC 03";F;"0";T;F;"";2004/08/10;"";T
+"03D02";"Demanding diagn proc of head, neck and central nervous system in MDC 03";F;"0";T;F;"";2005/01/17;"";T
+"03D11";"Extensive mouth radiology";F;"0";T;F;"";2012/06/05;"";F
+"03E01";"Diagnostic endoscopy of upper respiratory tract for ENMT problems";T;"0";T;F;"03";2002/01/21;"";F
+"03E02";"Diagnostic tracheo-bronchoscopy for ENMT problems";T;"0";T;F;"03";2002/01/21;"";F
+"03E03";"Esophagoscopy with insertion of stent for ENMT problems";T;"0";T;F;"03";2002/01/21;"";F
+"03E06";"Therapeutic endoscopy of upper gastrointestinal tract for ENMT problem";T;"0";T;F;"03";2002/01/21;"";F
+"03E11";"Endoscopy of oesophagus for ENMT problems";T;"0";T;F;"03";2002/01/21;"";F
+"03E20";"Endoscopic procedures of mouth and throat";T;"0";T;F;"";2006/11/23;"";F
+"03O01";"Major outpatient procedures for ENM problems";F;"0";T;F;"";/  /;"";F
+"03O02";"Diagnostic intervention for sleep apnoe";F;"0";T;F;"";/  /;"";T
+"03O03";"Investigation of dysfagia and related oral motor functions";F;"0";T;F;"";/  /;"";T
+"03O04";"ENM biopsy";F;"0";T;F;"";/  /;"";F
+"03O05";"Other ENM interventions";F;"0";T;F;"";/  /;"";F
+"03O06";"Hearing improving interventions";F;"0";T;F;"";/  /;"";T
+"03O07";"Demanding autiometry";F;"0";T;F;"";/  /;"";T
+"03O08";"Cochlear implant related interventions";F;"0";T;F;"";/  /;"";T
+"03O09";"Standard audiometry";F;"0";T;F;"";/  /;"";T
+"03O10";"Other tooth procedure";F;"0";T;F;"";2013/10/21;"";F
+"03O11";"Complex diagnostic procedures for ENM problems";F;"0";T;F;"";2007/11/11;"";T
+"03O12";"Local diagnostic procedures for ENM problems";F;"0";T;F;"";/  /;"";T
+"03O13";"Major ENT procedures for children";F;"0";T;F;"";2013/10/14;"";T
+"03S01";"Major head or neck procedure";T;"1";T;F;"";1996/12/31;"Laaja p‰‰n tai niskan leikkaus";T
+"03S02";"Myringtomy";F;"0";T;F;"";1996/12/31;"T‰rykalvon avaus";F
+"03S03";"Tonsillectomy or adenoidectomy";T;"0";T;F;"";1996/12/31;"Nielurisan  tai kitarisan poisto";T
+"03S04";"Cleft lip and palate repair";T;"1";T;F;"";1996/12/31;"Huuli-suulakihalkion korjaus";T
+"03S05";"Procedure of the mouth";T;"0";T;T;"";1999/08/04;"Suun leikkaus";F
+"03S06";"Procedure of paranasal sinus or mastoid";T;"1";T;F;"";1996/12/31;"Nen‰n sivuontelon tai kartiolis‰kkeen leikkaus";T
+"03S07";"Rhinoplasty";T;"0";T;F;"";1996/12/31;"Nen‰n plastinen leikkaus";T
+"03S08";"Parotidectomy";T;"0";T;F;"03";2008/11/11;"Parotidectomy";T
+"03S09";"Salivary gland procedure except paratidectomy";T;"0";T;F;"";2008/04/13;"Salivary gland procedure except paratidectomy";F
+"03S10";"Miscellaneous ear, nose, mouth or throat procedure";T;"0";T;F;"";1996/12/31;"Muu erityinen korvan nen‰n, suun tai kurkun leikkaus";T
+"03S11";"Special tonsillar and/or adenoid procedure";T;"0";T;F;"";1996/12/31;"Komplisoitunut nielurisan tai kitarisan poisto";F
+"03S12";"Other ear, nose, mouth or throat OR procedure";T;"0";T;F;"";1996/12/31;"Muu korva-, nen‰- tai kurkkutauteihin liittyv‰ leikkaus";F
+"03S13";"Dental extraction or restoration";T;"0";T;F;"";1996/12/31;"Hampaan poisto tai palauttaminen";F
+"03S14";"Procedure associated with cleft lip and palate";T;"0";T;F;"";2003/07/06;"Huuli-suulakihalkioon liittyv‰ toimenpide";T
+"03S20";"Complex paranasal och mastoid procedure";F;"0";T;F;"";2008/10/21;"Monimutkainen nen‰n sivuontelon tai kartiolis‰kkeen leikkaus";T
+"03S21";"Secondary correction operation for cleft lip";F;"0";T;F;"03";2003/09/09;"Huulihalkion sekundaarinen korjausleikkaus";T
+"03S22";"Surgery of mastoid and temporal bone";T;"1";T;F;"03";2005/04/27;"Kartiolis‰kkeen tai ohimoluun leikkaus";T
+"03S23";"Simple correction of obstructive apnoe";T;"0";T;F;"";2004/04/15;"";T
+"03S24";"Insertion of cochlear implant";T;"1";T;F;"03";2005/04/27;"";T
+"03S30";"Consultation and planning of care";F;"0";T;F;"";/  /;"";T
+"03S31";"Toothbridge or similar";F;"0";T;F;"";/  /;"";T
+"03S32";"Kariologic procedures";F;"0";T;F;"";/  /;"";F
+"03S33";"Parodontologic procedures";F;"0";T;F;"";/  /;"";F
+"03S34";"Dental implant operations";F;"0";T;F;"";/  /;"";F
+"03S35";"Orthodontic procedure";F;"0";T;F;"";/  /;"";T
+"03S36";"Correction of physiology of bite";F;"0";T;F;"";/  /;"";T
+"03S40";"Extensive mouth and jaw surgery";F;"0";T;F;"";2012/06/05;"";T
+"03S41";"Mouth and jaw surgery";F;"0";T;F;"";2012/06/05;"";T
+"03S42";"Extensive mouth intervention";F;"0";T;F;"";2012/06/05;"";F
+"03S43";"Mouth intervention";F;"0";T;F;"";2012/06/05;"";F
+"03S90";"Secondary procedure for ear, nose and moth area";F;"0";T;F;"03";2003/09/09;"Nen‰n, korvan ja suun alueen sekundaarinen toimenpide";F
+"03S99";"Minor procedure in ear, nose and throat diseases";T;"0";T;F;"";/  /;"V‰h‰inen korva-, nen‰- ja kurkkutautien leikkaus";F
+"03T01";"Special medical therapy for ear, nose, mouth and throat problems";F;"0";T;F;"";/  /;"";F
+"03T04";"Specia local medical therapy for ear, nose, mouth and throat problems";F;"0";T;F;"";/  /;"";T
+"03V01";"Major ear, nose and mouth procedure";F;"0";T;F;"";/  /;"";F
+"03V02";"Sleep apnoe examination";F;"0";T;F;"";/  /;"";T
+"03V03";"Examination of mouth and throat motor functions";F;"0";T;F;"";/  /;"";T
+"03V04";"Ear, nose and mouth biopsy";F;"0";T;F;"";/  /;"";F
+"03V05";"Incision and suture for ear, nose and mouth lesion";F;"0";T;F;"";/  /;"";F
+"03V06";"Other ear, nose and mouth procedure";F;"0";T;F;"";/  /;"";F
+"03V07";"Hearing improving intervention";F;"0";T;F;"";/  /;"";T
+"03V08";"Major audiometry";F;"0";T;F;"";/  /;"";T
+"03V09";"Assisting procedure for cochlear implant";F;"0";T;F;"";/  /;"";T
+"03V10";"Minor audiometry";F;"0";T;F;"";/  /;"";T
+"04D21";"Diagnostic proc of heart, large vessels and other intrathoracic organs in MDC 04";F;"0";T;F;"";2005/01/17;"";T
+"04D22";"Demanding diagn proc of heart, large vessels and other intrathoracic organs in MDC 04";F;"0";T;F;"";2005/01/17;"";T
+"04E02";"Endoscopy of respiratory tract and organs for respiratory problems";T;"0";T;F;"04";2002/01/21;"Hengitysteiden endoskopia";F
+"04E08";"Endoscopy of respiratory tract with ultrasound examination";F;"0";T;F;"04";2002/01/21;"Hengityselinten t‰hystykseen liittyv‰ Uƒ-tutkimus";T
+"04E20";"Insertion of stent to respiratory tract";F;"0";T;F;"";/  /;"Hengitystie stentin asennus";F
+"04O01";"Major respiratory investigation";F;"0";T;F;"";/  /;"";T
+"04O02";"Puncture of throrax";F;"0";T;F;"";/  /;"";T
+"04O03";"Other respiratory investigation";F;"0";T;F;"";/  /;"";T
+"04O04";"Minor respiratory interventions";F;"0";T;F;"";/  /;"";T
+"04O05";"Respiratory support";F;"0";T;F;"";/  /;"";T
+"04O11";"Minor thoracic procedure";F;"0";T;F;"";/  /;"";F
+"04O12";"Respiratory function measurement";F;"0";T;F;"";/  /;"";T
+"04S01";"Major chest procedure";T;"1";T;F;"";1996/12/31;"Laaja rintaontelon leikkaus, ei syd‰nleikkaus";T
+"04S02";"Other respiratory system OR procedure";T;"0";T;T;"";1996/12/31;"Suppea hengityselinten toimenpide";F
+"04S03";"Mechanical ventilation";F;"0";T;F;"";1996/12/31;"Hengityskonehoito";T
+"04S04";"Positive airway pressure therapy";F;"0";T;F;"";/  /;"";T
+"04T01";"Special medical therapy of respiratory problem";F;"0";T;F;"";/  /;"";F
+"04T03";"Special demanding medical therapy of respiratory problem";F;"0";T;F;"";/  /;"";T
+"04T04";"Special demanding subcutaneous therapy for respiratory problem";F;"0";T;F;"";2008/12/01;"";T
+"04V01";"Major spirometry";F;"0";T;F;"";/  /;"";T
+"04V02";"Thoraxpuncture";F;"0";T;F;"";/  /;"";F
+"04V03";"MInor spirometry";F;"0";T;F;"";/  /;"";T
+"04V04";"Other pulmonological interventions";F;"0";T;F;"";/  /;"";T
+"05D01";"Diagnostic procedure of head, neck and central nervous system in MDC 05";F;"0";T;F;"";2004/08/10;"";T
+"05D02";"Demanding diagn proc of head, neck and central nervous system in MDC 05";F;"0";T;F;"";2005/01/17;"";T
+"05D11";"Diagnostic procedure of endocrine organs in MDC 05";F;"0";T;F;"";2004/08/10;"";T
+"05D21";"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 05";F;"0";T;F;"";2005/01/17;"";T
+"05D22";"Demanding diagn proc of heart, large vessels and other intrathoracic organs in MDC 05";F;"0";T;F;"";2005/01/17;"";T
+"05D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 05";F;"0";T;F;"";2005/01/17;"";T
+"05D61";"Diagnostic procedure of periferal vascular system in MDC 05";F;"0";T;F;"";2004/08/10;"";T
+"05D62";"Demanding diagnostic procedure of periferal vascular system in MDC 05";F;"0";T;F;"";2004/08/10;"";T
+"05D64";"Diagnostic procedure of lymfatic system in MDC 05";F;"0";T;F;"";2004/08/10;"";T
+"05O01";"Invasive examination of circuralotry system";F;"0";T;F;"";/  /;"";F
+"05O02";"Cardioversion";F;"0";T;F;"";/  /;"";F
+"05O03";"Percutaneous embolisation of artery";F;"0";T;F;"";/  /;"";T
+"05O04";"Transoesphageal cardiac stimulation";F;"0";T;F;"";/  /;"";T
+"05O05";"Cardiac monitoring";F;"0";T;F;"";/  /;"";T
+"05O06";"Sclerotherapy of varicose veins";F;"0";T;F;"";/  /;"";F
+"05O07";"Cardiac work load test";F;"0";T;F;"";/  /;"";T
+"05O08";"Cardiac ultrasonography";F;"0";T;F;"";/  /;"";T
+"05O09";"Circulatory physiology, short therapy";F;"0";T;F;"";/  /;"";T
+"05O10";"Special ECG";F;"0";T;F;"";2005/10/07;"";T
+"05O11";"Vessel biopsy";F;"0";T;F;"";/  /;"";F
+"05O21";"Peripheral circulation diagnostic test";F;"0";T;F;"";/  /;"";F
+"05O22";"Physiological cardiac diagnostic test";F;"0";T;F;"";/  /;"";F
+"05O23";"Oedema therapy";F;"0";T;F;"";/  /;"";T
+"05S01";"Cardiac transplantation support procedures";T;"1";T;F;"";2007/04/17;"";T
+"05S02";"Cardiac valve procedure";T;"1";T;F;"";1996/12/31;"Syd‰nl‰p‰n korjausleikkaus";T
+"05S03";"Implantation or replacement of cardiodefibrillator";F;"0";T;F;"";2002/09/12;"Syd‰men defibrillaattorin ja kaapeleiden asennus tai vaihto";T
+"05S04";"Implantation or replacement of cardiodefibrillator generator";F;"0";T;F;"";1996/12/31;"Syd‰men defibrillaattorilaitteen asennus tai vaihto";T
+"05S05";"Cardiac catheterization";T;"0";T;F;"";1996/12/31;"Syd‰men katetrisaatio ilman toimenpiteit‰";F
+"05S06";"Procedure of heart atrium and vetricles or coronary arteries";T;"1";T;F;"";1996/12/31;"Syd‰men kammioiden ja eteisten tai koronaarisuonten leikkaus";T
+"05S07";"Resection of abdominal aorta with replacement";T;"1";T;F;"";1996/12/31;"Abdominaaliaortan resektio";T
+"05S08";"Resection of thoracic vessel with replacement";T;"1";T;F;"";1996/12/31;"Keuhko-ontelon suonen resektio";T
+"05S09";"Coronary bypass";T;"1";T;F;"";1996/12/31;"Syd‰men ohitusleikkaus";T
+"05S10";"Percutaneous cardiac procedure before coronary bypass";F;"0";T;F;"";1996/12/31;"Katetrisaatiotiet‰ tehty koronaarileikkausta valmisteleva toimenpide";T
+"05S11";"Major cardiovascular procedure";T;"1";T;T;"";1996/12/31;"Syd‰men tai verisuonten laaja rekonstruktioleikkaus";T
+"05S12";"Amputation of lower limb except toe";T;"0";T;F;"";1996/12/31;"Alaraajan laaja amputaatio";T
+"05S13";"Pacemaker revision or  cable implantation or replacement";F;"0";T;F;"";1997/12/07;"Syd‰mentahdistimen tarkastus tai kaapeleiden asennus tai vaihto";F
+"05S14";"Pacemaker device implantation or  replacement";F;"0";T;F;"";1996/12/31;"Syd‰mentahdistin laitteen asennus tai vaihto";T
+"05S15";"Other vascular procedures";T;"0";T;T;"";1996/12/31;"Muu verisuoniin kohdistuva toimenpide";F
+"05S16";"Other percutaneous cardiovascular procedures";T;"0";T;F;"";1996/12/31;"Muu katetritiet‰ suoritettu verisuonitoimenpide";F
+"05S17";"Amputation upper limb or toe";T;"0";T;F;"";1996/12/31;"Yl‰raajan tai varpaan amputaatio";T
+"05S18";"Vein ligation or stripping";T;"0";T;F;"";1996/12/31;"Suonikohjuleikkaus";T
+"05S19";"Other circulatory system OR procedures";T;"0";T;F;"";1996/12/31;"Muu verenkiertoj‰rjestelm‰n leikkaus";F
+"05S20";"Percutaneous ablation for cardiac arrhytmias";T;"0";T;F;"05";2005/04/28;"Syd‰men elektroninen stimulointi";T
+"05S21";"Assisting procedure in open hearth surgery";T;"0";T;F;"";2007/04/17;"Avosyd‰nkirurgian aputoimenpide";T
+"05S22";"Procedure on hearth, aortta or pulmonary artery possibly with extracorporeal circulation";T;"1";T;F;"";1997/10/28;"Syd‰men, aortan tai keuhkovaltimon leikkaus - syd‰npys‰ytyksen k‰yttˆ mahdollista";T
+"05S23";"Special procedure in cardiac cathetrisation";F;"0";T;F;"05";/  /;"Syd‰men katetrisaatiossa teht‰v‰ erityistoimenpide";T
+"05S24";"Biobsy of hearth vetricle";T;"0";T;F;"";/  /;"Syd‰nkammion koepalanotto";T
+"05S25";"Percutaneous dilatation of coronary arteries";T;"0";T;F;"";/  /;"Sepelvaltimoiden katetrilaajennus";F
+"05S26";"Coronar artery stent or catheter ablation";F;"0";T;F;"";/  /;"Koronaaristentin asennus tai syd‰men katetriablaatio";T
+"05S27";"Mapping for source of cardiac arythmias";F;"0";T;F;"";2000/10/04;"Syd‰men rytmih‰iriˆn l‰hteen kartoitus katetrilla";T
+"05S30";"Implantation of permanent cardiac pacemaker";F;"0";T;F;"";2002/12/12;"Pysyv‰n syd‰ntahdistimen asennus";T
+"05S31";"Examination of cardiac arrythmia with cathetrisation";F;"0";T;F;"05";2003/09/09;"Syd‰men rytmih‰iriˆn katetritutkimus";T
+"05S32";"Percutaneous transluminal coronary angioplasty";F;"0";T;F;"05";2003/09/10;"Sepelvaltimon suonensis‰inen laajennus";F
+"05S33";"Coronary angiography";F;"0";T;F;"05";2003/09/10;"Sepelvaltiomoiden varjoainekuvaus";T
+"05S34";"Correctional procedures for vascular problems of lower extremitity";F;"0";T;F;"05";2003/09/10;"Verisuoniongelmien korjausleikkaus";T
+"05S35";"Aortic prodedures";T;"1";T;F;"05";2005/06/10;"";T
+"05S40";"Implantation of cardiac defibrillator";T;"0";T;F;"05";2005/04/28;"";F
+"05S41";"Implantation of pacemaker";T;"0";T;F;"05";2005/04/28;"Pysyv‰n syd‰ntahdistimen asentaminen";T
+"05S42";"Revision or removal of pacemaker or defibrillator";T;"0";T;F;"05";2005/04/28;"";F
+"05S80";"Transcatheter Aortic Valve Implantation";T;"0";T;F;"05";2011/05/15;"Transcatheter Aortic Valve Implantation";T
+"05S90";"Secondary cardiac procedure";F;"0";T;F;"05";2003/09/09;"Syd‰men uusintaleikkaus";F
+"05T01";"Botulinus for cardiovascular problems";F;"0";T;F;"";2008/11/13;"";T
+"05T02";"Special cardiovascular medication";F;"0";T;F;"";/  /;"";T
+"05V01";"Invasive examination of circulation";F;"0";T;F;"";/  /;"";T
+"05V02";"Cardioversion";F;"0";T;F;"";/  /;"";F
+"05V03";"Closure of other minor blood vessels";F;"0";T;F;"";/  /;"";T
+"05V04";"Transesophageal cardiac stimulation";F;"0";T;F;"";/  /;"";T
+"05V06";"Long term blood pressure and ECG monitoring";F;"0";T;F;"";/  /;"";T
+"05V07";"Sclerosing varicose veins";F;"0";T;F;"";2013/04/29;"";T
+"05V08";"Cardiac ergometry";F;"0";T;F;"";/  /;"";T
+"05V09";"Cardiac ultrasonography";F;"0";T;F;"";/  /;"";T
+"05V10";"Examination of circulatory physiology";F;"0";T;F;"";/  /;"";T
+"05V11";"ECG";F;"0";T;F;"";/  /;"";T
+"05V12";"Blood vessel biopsy";F;"0";T;F;"";/  /;"";F
+"05V13";"Blood vessel ultrasonography";F;"0";T;F;"";/  /;"";T
+"05V14";"Check-up of patient with pacemaker-/ICD";F;"0";T;F;"05";2011/06/13;"Check-up of patient with pacemaker-/ICD";T
+"06D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 06";F;"0";T;F;"";2005/01/17;"";T
+"06D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 06";F;"0";T;F;"";2005/01/17;"";T
+"06D41";"Diagnostic procedure of musculosceletal system in MDC 06";F;"0";T;F;"";2005/01/17;"";T
+"06D61";"Diagnostic procedure of periferal vascular system in MDC 06";F;"0";T;F;"";2004/08/10;"";T
+"06D62";"Demanding diagnostic procedure of periferal vascular system in MDC 06";F;"0";T;F;"";2004/08/10;"";T
+"06E03";"Esophagoscopy with insertion of stent for gastrointestinal problem";T;"0";T;F;"06";2002/01/21;"";F
+"06E04";"Therapeutic enteroscpy";T;"0";T;F;"06";2002/01/21;"";F
+"06E05";"Therapeutic endoscopy of lower gastrointestinal tract for gastrointest";F;"0";T;F;"06";2002/01/21;"";T
+"06E06";"Therapeutic endoscopy of upper gastrointestinal tract for gastrointest";T;"0";T;F;"06";2002/01/21;"";F
+"06E07";"Therapeutic rectoscopy for gastrointestinal problem";T;"0";T;F;"06";2002/01/21;"";F
+"06E08";"Endoscopic treatment of hemorrhoids";T;"0";T;F;"06";2012/10/03;"Ruuansulatuskanavan sairauden Uƒ-tutkimus t‰hystyksess‰";F
+"06E09";"Enteroscopy for gastrointestinal problem";T;"0";T;F;"06";2002/01/21;"";F
+"06E10";"Colonoscopy for gastrointestinal diseases";T;"0";T;F;"06";2002/01/21;"";F
+"06E11";"Endoscopy of upper gastrointestinal tract for gastrointestinal problem";T;"0";T;F;"06";2002/01/21;"";F
+"06E12";"Rectosigmoideoscopy for gastrointestinal problem";T;"0";T;F;"06";2002/01/21;"";F
+"06E13";"Endoscopic insertion of stent to biliary tract or pancreas for gastrointestinal problem";T;"0";T;F;"";2003/10/02;"";F
+"06E14";"Other therapeutic endoscopy of biliary tract for gastrointestinal prob";T;"0";T;F;"06";2002/01/21;"";F
+"06E20";"Capsular endoscopy";T;"0";T;F;"";/  /;"";F
+"06O01";"Minor procedure for intestinal obstruction";F;"0";T;F;"";/  /;"";F
+"06O02";"Gastrointestinal physiology";F;"0";T;F;"";/  /;"";T
+"06O03";"Puncture or biopsy of abdominal organs, short therapy";F;"0";T;F;"";/  /;"";F
+"06O04";"Minor abdominal procedure";F;"0";T;F;"";/  /;"";F
+"06O05";"Gastrointestinal sonds and catheters";F;"0";T;F;"";/  /;"";F
+"06O06";"Gastrointestinal minor invasive biopsy";F;"0";T;F;"";/  /;"";F
+"06S01";"Stomach, esophagus or duodenum procedure";T;"1";T;T;"";1996/12/31;"Vatsan, ruokatorven tai pohjukaisuolen toimenpide";T
+"06S02";"Major small or large bowel procedure";T;"1";T;T;"";1996/12/31;"Laaja ohut- tai paksusuolen leikkaus";T
+"06S03";"Rectal resection";T;"1";T;T;"";1996/12/31;"Per‰suolen resektio";T
+"06S04";"Peritoneal adhesiolysis";T;"0";T;T;"";1996/12/31;"Peritoneaalisten kiinnikkeiden irroittelu";T
+"06S05";"Appendectomy";T;"0";T;T;"";1996/12/31;"Umpilis‰kkeen poisto";T
+"06S06";"Small or large bowell procedure";T;"0";T;T;"";1998/10/20;"Ohut- tai paksusuolen toimenpide";F
+"06S07";"Minor intestinal procedure";T;"0";T;T;"";1998/10/20;"V‰h‰inen suoliston leikkaus";F
+"06S08";"Inguinal or femoral herniotomy";T;"0";T;T;"";1996/12/31;"Nivustyr‰n tai reisityr‰n leikkaus";T
+"06S09";"Other herniotomy";T;"0";T;T;"";1996/12/31;"Muu tyr‰leikkaus";T
+"06S10";"Other digestive system OR procedure";T;"0";T;T;"";1996/12/31;"Muu ruuansulatuskanavansairauden toimenpide";F
+"06S20";"Diagnostic pleural procedure";T;"0";T;F;"06";1998/01/07;"Diagnostinen pleuratilan tarkistus";T
+"06S21";"Major operation on stomach, esophagus and duodenum";T;"1";T;F;"06";2003/05/14;"Yksinkertainen suoliavanneleikkaus tai muu vastaava suolistotoimenpide";T
+"06S22";"Minor stomach or esophagus procedure";F;"0";T;F;"";2000/11/21;"Pieni vatsan tai ruokatoven toimenpide";F
+"06S30";"Removal of retroperitoneal tumour";T;"0";T;F;"06";/  /;"Retroperitoneaalisen kasvaimen poisto";T
+"06T01";"Special medical therapy for gastrointestinal disease";F;"0";T;F;"";/  /;"";T
+"06T03";"Special demanding medical therapy for gastrointestinal disease";F;"0";T;F;"";/  /;"";F
+"06T04";"Special subcutaneous therapy for gastrointestinal disease";F;"0";T;F;"";/  /;"";T
+"06V01";"Intervetion for colorectal obstruction";F;"0";T;F;"";/  /;"";T
+"06V02";"Gastrointestinal physiologic test";F;"0";T;F;"";/  /;"";F
+"06V03";"Puncture or biopsy of abdominal organ without endoscopy";F;"0";T;F;"";/  /;"";F
+"06V04";"Other anorectal intervention";F;"0";T;F;"";/  /;"";T
+"06V05";"Minor abdominal intervetion,";F;"0";T;F;"";/  /;"";T
+"06V06";"Gastrointestinal sond or tube intervention";F;"0";T;F;"";/  /;"";F
+"06V07";"Minor intestinal or abdominal intervention";F;"0";T;F;"";/  /;"";F
+"07D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 07";F;"0";T;F;"";2005/01/17;"";T
+"07D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic  organs in MDC 07";F;"0";T;F;"";2005/01/17;"";T
+"07D61";"Diagnostic procedure of periferal vascular system in MDC 07";F;"0";T;F;"";2004/08/10;"";T
+"07D62";"Demanding diagnostic procedure of periferal vascular system in MDC 07";F;"0";T;F;"";2004/08/10;"";T
+"07E05";"Therapeutic endoscopy of lower gastrointestinal tract for hepatobiliar";F;"0";T;F;"07";2002/01/21;"";T
+"07E06";"Therapeutic endoscopy of upper gastrointestinal tract for hepatobiliar";T;"0";T;F;"07";2002/01/21;"";F
+"07E08";"Endoscopic ultrasound examination of hepatobiliary problems";F;"0";T;F;"07";2002/01/21;"";T
+"07E11";"Endoscopy of upper gastrointestinal tract for hepatobiliary problem";F;"0";T;F;"07";2004/10/14;"";F
+"07E13";"Endoscopic insertion of stent to biliary tract or pancreas for hepatobiliar problem";T;"0";T;F;"07";2002/12/13;"";F
+"07E14";"Other therapeutic endoscopy of biliary tract for hepatobiliary problem";T;"0";T;F;"07";2002/01/21;"";F
+"07E15";"Diagnostic endoscopy of biliary tract for gastrointestinal problem";T;"0";T;F;"07";2002/01/21;"";F
+"07O01";"Transcutaneous hepatobiliary procedure";F;"0";T;F;"";2005/10/08;"";F
+"07S01";"Pancreas, liver or splancnic shunt procedure";T;"1";T;T;"";1996/12/31;"Haiman tai maksan leikkaus tai vatsasuonten ohitusleikkaus";T
+"07S02";"Common bile duct exploration";T;"0";T;T;"";1996/12/31;"Sappitiehyeen tutkiminen";T
+"07S03";"Cholecystectomy";T;"0";T;T;"";1996/12/31;"Sappirakon poisto";T
+"07S04";"Laparoscopic cholecystectomy";T;"0";T;T;"";1996/12/31;"Laparoskooppinen sappirakon poisto";T
+"07S05";"Other biliary tract procedure";T;"0";T;T;"";1996/12/31;"Muu sappiteiden leikkaus";F
+"07S06";"Hepatobiliary diagnostic procedure";T;"0";T;F;"";1996/12/31;"Maksan ja haiman alueen diagnostinen tutkimus";T
+"07S07";"Other hepatobiliary or pancreas procedure";T;"0";T;F;"";1996/12/31;"Muu maksan, sappiteiden tai haiman toimenpide";F
+"07S08";"Endoscopic procedure of choledochus or pancreas";T;"0";T;F;"";/  /;"Endoskooppinen sappi- tai haimatietoimenpide";F
+"07V01";"Extracorporeal shock wave litotripsy";F;"0";T;F;"";/  /;"";F
+"07V02";"Hepatobiliary or pancreas punktion";F;"0";T;F;"07";2011/06/13;"Hepatobiliary or pancreas punktion";F
+"08D01";"Diagnostic procedure of head, neck and central nervous system in MDC 08";F;"0";T;F;"";/  /;"";T
+"08D02";"Demanding diagnostic procedure of head, neck and central nervous system in MDC 08";F;"0";T;F;"";2005/01/17;"";T
+"08D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 08";F;"0";T;F;"";2005/01/17;"";T
+"08D41";"Diagnostic procedure of musculosceletal system in MDC08";F;"0";T;F;"";2004/08/10;"";T
+"08D42";"Demanding diagnostic procedure of musculosceletal system in MDC 08";F;"0";T;F;"";2004/08/10;"";T
+"08D61";"Diagnostic procedure of periferal vascular system in MDC 08";F;"0";T;F;"";2004/08/10;"";T
+"08O01";"Custom moulded cast circulating body";F;"0";T;F;"";/  /;"";F
+"08O02";"Closed procedure on joint or fracture";F;"0";T;F;"";/  /;"";F
+"08O03";"Puncture of deep joint or injection to joint, short therapy";F;"0";T;F;"";/  /;"";F
+"08O04";"Transcutaneous musculoscletal biopsy";F;"0";T;F;"";/  /;"";F
+"08O05";"Intra-articular medication";F;"0";T;F;"";/  /;"";F
+"08O06";"Circular custom molded cast of extremity";F;"0";T;F;"";/  /;"";F
+"08O07";"Extraction of fixation material";F;"0";T;F;"";/  /;"";F
+"08O08";"Other orthopedic bandage procedure";F;"0";T;F;"";/  /;"";T
+"08O09";"Implantation of sceletal marker";F;"0";T;F;"";/  /;"";F
+"08O10";"Puncture of other joint";F;"0";T;F;"";/  /;"";F
+"08O11";"Orthosis for large joints";F;"0";T;F;"";/  /;"";F
+"08O12";"Orthopedic bandage without cast";F;"0";T;F;"";/  /;"";F
+"08O13";"Orthosis for other joints";F;"0";T;F;"";/  /;"";F
+"08O14";"Intra-articular medication";F;"0";T;F;"";2007/11/12;"";F
+"08O15";"Application of prefabricated orthosis";F;"0";T;F;"";2007/11/12;"";F
+"08O16";"Simple incisons and foreign body removals in orthopedics";F;"0";T;F;"";/  /;"";F
+"08O17";"Muscle and sceletal biopsies";F;"0";T;F;"";/  /;"";F
+"08O18";"Puncture of joint";F;"0";T;F;"";/  /;"";F
+"08O19";"Closed joint or fracture reduction or joint mobilisation";F;"0";T;F;"";/  /;"";F
+"08O20";"Othopaedic bandage";F;"0";T;F;"";/  /;"";F
+"08O21";"Othopaedic prosthesis testing and check-up";F;"0";T;F;"";2007/11/12;"";T
+"08O22";"Orthopaedic diagnostic ultrasound";F;"0";T;F;"";2007/11/14;"";T
+"08S02";"Wound debriment or skin graft procedure";T;"0";T;F;"";1997/12/10;"Haavan revisio tai ihon siirto";T
+"08S04";"Musculosceletal system or connective tissue biopsy";T;"0";T;F;"";1996/12/31;"Luu-, lihas- tai sidekudosbiopsia";F
+"08S06";"Amputation";T;"1";T;T;"";1996/12/31;"Amputaatio";T
+"08S08";"Back or neck procedure";T;"1";T;T;"";1996/12/31;"Sel‰n tai niskan leikkaus";T
+"08S10";"Foot and leg procedures for infection";T;"0";T;F;"";/  /;"Jalan ja s‰‰ren infektiotoimenpiteet";T
+"08S11";"Local excision and removal of internal fixation devices, except hip and femur";T;"0";T;T;"";1996/12/31;"Paikallinen luuleikkaus tai sis‰isten fiksatiolaitteiden poisto";F
+"08S12";"Soft tissue procedure";T;"0";T;T;"";1996/12/31;"Pehmytkudosleikkaus";F
+"08S13";"Local excision or removal of internal fixation devices from hip or femur";T;"0";T;T;"";1996/12/31;"Paikallinen luuleikkaus tai sis‰isten fiksatiolaitteiden poisto lonkasta tai reidest‰";T
+"08S14";"Interbody fusion of spine";T;"1";T;F;"06";2003/09/26;"";T
+"08S15";"Other fusion of spine";T;"1";T;F;"06";/  /;"";T
+"08S16";"Combined anterior and posterior fusion of spine";T;"1";T;F;"06";/  /;"";T
+"08S18";"Open fracture surgery of spine";T;"0";T;F;"08";/  /;"Open fracture surgery of spine";T
+"08S19";"Arthroscopy";T;"0";T;F;"";1996/12/31;"Atroskopia";T
+"08S20";"Other musculosceletal system or connective tissue OR procedure";T;"0";T;T;"";1996/12/31;"Muu tuki- ja liikuntaelinj‰rjestelm‰n leikkaus";F
+"08S22";"Facial bone operation for trauma";F;"0";T;F;"";/  /;"Kasvojen luuleikkaus vamman takia";T
+"08S23";"Operation on intervertebral disc in lumbal region";F;"0";T;F;"";2000/11/20;"Lannerangan v‰lilevyleikkaus";T
+"08S40";"Tumor removal from shoulder or humerus";T;"0";T;F;"08";1997/12/11;"Kasvaimen poisto olkap‰‰st‰ tai olkavarresta";T
+"08S41";"Tumor removal from elbow or forearm";T;"0";T;F;"08";1997/12/11;"Kasvaimen poisto kyyn‰rp‰‰st‰ tai kyyn‰rvarresta";T
+"08S42";"Tumor removal from wrist or hand";T;"0";T;F;"08";1997/12/11;"Kasvaimen poisto k‰dest‰ tai ranteesta";T
+"08S43";"Tumor removal from pelvis, hip or femur";T;"0";T;F;"08";1997/12/11;"Kasvaimen poisto lantiosta, lonkasta tai reidest‰";T
+"08S44";"Tumor removal form knee or lower leg";T;"0";T;F;"08";1997/12/12;"Polven tai s‰‰ren kasvaimen poisto";T
+"08S45";"Tumor removal from ankle or foot";T;"0";T;F;"08";1997/12/12;"Kasvaimen poisto nilkasta tai jalkater‰st‰";T
+"08S46";"Procedure for syndactyly of hand";T;"0";T;F;"08";2000/05/08;"K‰den syndaktylian leikkaus";F
+"08S47";"Procedure for syndactyly of foot";T;"0";T;F;"";2000/05/08;"Jalan syndaktylian leikkaus";F
+"08S50";"Shoulder or humerus procedure";T;"0";T;F;"";1996/12/31;"Olkap‰‰n tai olkavarren leikkaus";T
+"08S51";"Major shoulder procedures";T;"0";T;F;"";1996/12/31;"Laaja olkap‰‰n leikkaus";T
+"08S52";"Other shoulder  procedure";T;"0";T;T;"";1996/12/31;"Muu olkap‰‰n leikkaus";F
+"08S53";"Humerus procedure";T;"0";T;F;"";1996/12/31;"Olkavarren leikkaus";T
+"08S55";"Major elbow or forearm procedure";T;"0";T;F;"";1996/12/31;"Laaja kyyn‰rp‰‰n tai kyyn‰rvarren leikkaus";T
+"08S56";"Other elbow or forearm procedure";T;"0";T;F;"";1996/12/31;"Muu kyyn‰rp‰‰n tai kyyn‰rvarren leikkaus";F
+"08S57";"Major thumb or wrist procedure";T;"0";T;F;"";1996/12/31;"Laaja peukalon tai ranteen nivelten leikkaus";T
+"08S58";"Other hand or wrist procedure";T;"0";T;T;"";1996/12/31;"Muu k‰den tai ranteen leikkaus";F
+"08S60";"Joint replacement or limb reattachment procedure of the upper extremity";T;"1";T;F;"";1996/12/31;"Yl‰raajan proteesileikkaus tai takaisinistutus";T
+"08S61";"Prosthetic replacement of joint of shoulder";T;"0";T;F;"";/  /;"";T
+"08S62";"Prosthetic replacement of elbow";T;"0";T;F;"";/  /;"";T
+"08S70";"Major knee procedures in  short therapy";T;"0";T;F;"08";2011/06/08;"Major knee procedures in  short therapy";T
+"08S71";"Pelvic, hip or femur procedure, except major joint";T;"0";T;T;"";1996/12/31;"Lantion, lonkan tai reiden leikkaus, ei laaja nivelleikkaus";F
+"08S72";"Knee procedure except major joint";T;"0";T;T;"";1996/12/31;"Polvileikkaus";F
+"08S73";"Procedure of lower leg or ankle except major joint or soft tissue procedure";T;"0";T;F;"";1997/09/28;"S‰‰ren tai nilkan toimenpide, ei laaja nivelleikkaus tai pehmytkudostoimenpide";T
+"08S74";"Procedure of foot except major joint";T;"0";T;F;"";1996/12/31;"Jalkater‰n toimenpide";F
+"08S75";"Procedure on knee or lower leg";T;"0";T;F;"08";/  /;"Polven tai s‰‰ren toimenpide";F
+"08S76";"Procedure on ankle or foot";T;"0";T;F;"08";/  /;"Nilkan tai jalkater‰n toimenpide";F
+"08S77";"Fracture surgery of ankle and foot";F;"0";T;F;"08";2003/09/11;"Jalan murtumakirurgia";F
+"08S78";"Major pelvic, hip or femur trauma procedure";T;"1";T;F;"";2013/04/28;"";T
+"08S79";"Limb reattachment in lower extremity";F;"1";T;F;"";2013/05/20;"Alaaajan takaisinistutusleikkaus";T
+"08S81";"Prosthetic replacement of joint of hip or pelvis";T;"1";T;F;"";1996/12/31;"Lonkan tai lantion proteesileikkaus";T
+"08S82";"Replacement of knee by prosthesis";T;"1";T;F;"";1996/12/31;"Polven keinonivelleikkaus";T
+"08S83";"Total replacemaent of ankle by prosthesis";T;"1";T;F;"";1996/12/31;"Nilkan totaali keinonivelleikkaus";T
+"08S84";"Reoperation on pelvic, knee or ankle prosthesis";F;"0";T;F;"";2000/11/20;"Lonkan, polven tai nilkan keinonivelen uusintaleikkaus";T
+"08S85";"Fracture operation of foot";F;"0";T;F;"";2000/11/20;"Jalkater‰n murtumaleikkaus";T
+"08S91";"Excise of bone for graft";T;"0";T;F;"08";/  /;"Luun ottaminen siirtoa varten";F
+"08S92";"Reoperation on large lower leg joint prosthesis";T;"0";T;F;"";2002/11/14;"Alaraajan ison nivelen proteesin uusintaleikkaus";T
+"08S93";"Hip secondary procedure";T;"1";T;F;"08";/  /;"";T
+"08S94";"Knee secondary procedure";T;"1";T;F;"08";/  /;"";T
+"08S95";"Secondary ankle procedure";T;"1";T;F;"08";2012/06/28;"Secondary ankle procedure";T
+"08S98";"Extern fixation of wrist";T;"0";T;F;"";2003/07/05;"Ranteen ulkoinen kiinnitys";T
+"08T01";"Special medical therapy of musculosceletal system";F;"0";T;F;"";/  /;"";F
+"08T02";"Demanding medical therapy of musculosceletal system";F;"0";T;F;"";/  /;"";F
+"08T03";"Special demanding medical therapy of musculosceletal system";F;"0";T;F;"";/  /;"";F
+"08V01";"Orthopedic bandage of body";F;"0";T;F;"";/  /;"";T
+"08V02";"Closed intervention on joint or reposition of fracture";F;"0";T;F;"";/  /;"";F
+"08V03";"External traction";F;"0";T;F;"";2013/04/29;"";F
+"08V04";"Puncture of deep joint of rinsing of joint";F;"0";T;F;"";/  /;"";F
+"08V05";"Musculosceletal puncture for biopsy";F;"0";T;F;"";/  /;"";F
+"08V06";"Minor incision of musculoscleletal soft tissue";F;"0";T;F;"";/  /;"";F
+"08V07";"Intra articular medication";F;"0";T;F;"";/  /;"";F
+"08V08";"Orthopedic bandage of extremity";F;"0";T;F;"";/  /;"";F
+"08V09";"Extrction of external fixation";F;"0";T;F;"";/  /;"";F
+"08V10";"Orthopedic bandage with custom molded splint";F;"0";T;F;"";/  /;"";F
+"08V11";"Implantation of sceletal marker";F;"0";T;F;"";/  /;"";F
+"08V12";"Puncture of other joint";F;"0";T;F;"";2013/04/29;"";F
+"08V13";"Orthosis of major joint";F;"0";F;F;"";2013/04/29;"";F
+"08V14";"Orthopedic bandage";F;"0";T;F;"";2008/05/20;"";F
+"08V15";"Prefabricated orthosis";F;"0";T;F;"";2008/05/20;"";F
+"09O01";"Photodynamic procedure";F;"0";T;F;"";/  /;"";F
+"09O02";"Major skin procedure";F;"0";T;F;"";/  /;"";T
+"09O03";"Skin excision or biopsy";F;"0";T;F;"";/  /;"";F
+"09O04";"Other minor skin procedure";F;"0";T;F;"";/  /;"";F
+"09O05";"Other procedure applying light";F;"0";T;F;"";/  /;"";T
+"09O06";"Wound dressing or other therapy";F;"0";T;F;"";/  /;"";F
+"09O10";"Major wound therapy";F;"0";T;F;"";/  /;"";F
+"09O11";"Other minor skin procedure";F;"0";T;F;"";2008/01/31;"";F
+"09O12";"Excision or destruction of skin lesion";F;"0";T;F;"";2009/07/06;"";F
+"09O90";"Photodynamic method";F;"0";T;F;"";/  /;"";F
+"09S01";"Skin graft or debridement procedure";T;"0";T;T;"";1996/12/31;"Ihon siirto tai haavan puhdistus";F
+"09S02";"Plastic procedure";T;"0";T;F;"";1996/12/31;"Plastiikkakirurginen leikkaus";F
+"09S06";"Perianal procedure";T;"0";T;F;"";2000/03/03;"Perianaalinen leikkaus";F
+"09S07";"Other skin, subcutaneous tissue or breast procedure";T;"0";T;T;"";1996/12/31;"Muu ihon, ihonalaisen kudoksen tai rintarauhasen toimenpide";F
+"09S08";"Other skin, subcutaneous tissue or breast procedure, not OR procedure";T;"0";T;F;"";/  /;"Muu ihon, ihonalaisen kudoksen tai rintarauhasen pientoimenpide, ei leikkaussalitoimenpide";F
+"09S20";"Pilonidal sinus procedure";T;"0";T;F;"";2000/03/03;"Pilonidaalisinuksen leikkaus";F
+"09S31";"Removal of breastgland";F;"0";T;F;"";2000/11/20;"Rintarauhasen poistoleikkaus";T
+"09S32";"Reconstruction of breast";F;"0";T;F;"";2000/11/20;"Rinnankorjausleikkaus";T
+"09S33";"Reduction mammoplasty";F;"0";T;F;"";2000/11/20;"Rinnan pienent‰minen";T
+"09S34";"Reconstruction of areola and mamilla";F;"0";T;F;"";2000/11/23;"N‰nnin korjausleikkaus";T
+"09T01";"Special medical therapy of skin diseases";F;"0";T;F;"";/  /;"";F
+"09T02";"Demanding medical therapy of skin diseases";F;"0";T;F;"";/  /;"";F
+"09V02";"Diagnostic or therapeutic major intervention using light";F;"0";T;F;"";/  /;"";T
+"09V03";"Outpatient skinn intervention";F;"0";T;F;"";2008/05/20;"";F
+"09V04";"Skin excision and biopsy";F;"0";T;F;"";/  /;"";F
+"09V05";"Minor dermatologic intervention";F;"0";T;F;"";/  /;"";F
+"09V07";"Dressing of wound of skin";F;"0";T;F;"";/  /;"";F
+"09V08";"Medical skin care";F;"0";T;F;"";/  /;"";T
+"09V09";"Skin excision and biopsy, head and neck";F;"0";T;F;"";/  /;"";F
+"10D01";"Diagnostic procedure of head, neck and central nervous system in MDC 10";F;"0";T;F;"";2004/08/10;"";T
+"10D02";"Demanding diagnostic procedure of head, neck and central nervous system in MDC 10";F;"0";T;F;"";2005/01/17;"";T
+"10D11";"Diagnostic procedure of endocrine organs in MDC 10";F;"0";T;F;"";2004/08/10;"";T
+"10D12";"Demanding diagnostic procedure of endocrine organs in MDC 10";F;"0";T;F;"";/  /;"";T
+"10D21";"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 10";F;"0";T;F;"";2005/01/17;"";T
+"10D31";"Demanding diagnostic procedure of heart, large vessels and other intratho";F;"0";T;F;"";2004/08/10;"";T
+"10D41";"Diagnostic procedure of musculosceletal system in MDC10";F;"0";T;F;"";2004/08/10;"";T
+"10D62";"Demanding diagnostic procedure of periferal vascular system in MDC 10";F;"0";T;F;"";2004/08/10;"";T
+"10O01";"Liposuction";F;"0";T;F;"";/  /;"";F
+"10O02";"Hormone profile registration";F;"0";T;F;"";/  /;"";T
+"10O03";"Puncture of endocrine organ";F;"0";T;F;"";/  /;"";F
+"10O04";"Metabolic investigation, short therapy";F;"0";T;F;"";/  /;"";T
+"10O05";"Complex endocrine test";F;"0";T;F;"";/  /;"";T
+"10O06";"Procedures for nutrition";F;"0";T;F;"";/  /;"";T
+"10S01";"Amputation of lower limb";T;"1";T;F;"";1996/12/31;"Alaraajan tai jalan amputaatio";T
+"10S02";"Adrenal procedure";T;"0";T;F;"";1997/12/08;"Lis‰munuaisen leikkaus";F
+"10S03";"Skin graft or wound revision";F;"0";T;F;"";2006/04/25;"Ihon siirto tai haavauman revisio";T
+"10S04";"OR procedure for obesity";T;"0";T;F;"";1996/12/31;"Liikalihavuuden leikkaushoito";F
+"10S05";"Parathyroid procedure";T;"0";T;F;"";1996/12/31;"Lis‰kilpirauhasleikkaus";F
+"10S06";"Thyroid procedure";T;"0";T;F;"";1996/12/31;"Kilpirauhasleikkaus";F
+"10S07";"Thyroglossal procedure";F;"0";F;F;"";2012/04/13;"Thyreoglossuskanavan leikkaus";T
+"10S08";"Other endocrine, nutritional or metabolic system OR procedure";T;"0";T;T;"";1996/12/31;"Muu endokriinisen, nutritionaalisen tai metabolisen sairauden kirurgia";F
+"10S09";"Pituitary procedure";T;"1";T;F;"10";/  /;"Aivolis‰kkeen toimenpide";T
+"10S20";"Gastrointestinal procedure for obesity";T;"0";T;F;"10";/  /;"";T
+"10T03";"Special demanding medical therapy for endocrine, metabolic or nuttritional disease";F;"0";T;F;"";/  /;"";F
+"10T04";"Miglustat therapy";F;"0";T;F;"";/  /;"";T
+"10V01";"Hormone profile determination";F;"0";T;F;"";/  /;"";T
+"10V02";"Puncture of endocrine organ";F;"0";T;F;"";2008/05/20;"";F
+"10V03";"Metabolic examination";F;"0";T;F;"";/  /;"";T
+"10V04";"Diagnostic major endocrine test";F;"0";T;F;"";/  /;"";T
+"10V05";"Diagnostic minor endocrine test";F;"0";T;F;"";/  /;"";T
+"10V06";"Nutritional intervention";F;"0";T;F;"";/  /;"";T
+"10V07";"Liposuction";F;"0";T;F;"";/  /;"";F
+"11D21";"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 11";F;"0";T;F;"";2005/01/17;"";T
+"11D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 11";F;"0";T;F;"";2005/01/17;"";T
+"11D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 11";F;"0";T;F;"";2005/01/17;"";T
+"11D61";"Diagnostic procedure of periferal vascular system in MDC 11";F;"0";T;F;"";2004/08/10;"";T
+"11D62";"Demanding diagnostic procedure of periferal vascular system in MDC 11";F;"0";T;F;"";2004/08/10;"";T
+"11E16";"Therapeutic endoscopy of urinary tract for urinary problem";T;"0";T;F;"11";2002/01/21;"";F
+"11E17";"Diagnostic endoscopy of upper urinary tract for urinary problem";T;"0";T;F;"11";2002/01/21;"";F
+"11E18";"Diagnostic endoscopy of lower urinary tract for urinary problems";T;"0";T;F;"11";2002/01/21;"";F
+"11O01";"Puncture of kidney and retroperitoneum";F;"0";T;F;"";/  /;"";F
+"11O02";"Major urogenital outpatient procedure";F;"0";T;F;"";/  /;"";F
+"11O03";"Urological fysiological examination";F;"0";T;F;"";/  /;"";F
+"11O04";"Minor outpatient urogenital procedure";F;"0";T;F;"";/  /;"";T
+"11O05";"Minor lower urinary tract procedures";F;"0";T;F;"";/  /;"";F
+"11S01";"Kidney transplant";T;"1";T;F;"";1996/12/31;"Munuaisen siirto";T
+"11S02";"Kidney, ureter or major bladder procedure";T;"1";T;T;"";1996/12/31;"Munuaisen tai virtsajohtimen leikkaus tai vaativa virtsarakon leikkaus";T
+"11S03";"Minor bladder procedure";T;"0";T;T;"";1996/12/31;"V‰h‰inen virtsarakon toimenpide";F
+"11S04";"Prostatectomy";F;"0";T;T;"";1996/12/31;"Prostatektomia";F
+"11S05";"Transurethral procedures (no prostatectomy)";T;"0";T;T;"";1996/12/31;"Transuretraalinen toimenpide ( ei prostatektomia)";F
+"11S06";"Urethra procedures";T;"0";T;T;"";1996/12/31;"Virtsaputken leikkaus";F
+"11S07";"Other kidney or urinary tract OR procedure";T;"0";T;F;"";1996/12/31;"Muu munuaisen tai virtsaputken sairauden toimenpide";F
+"11S08";"ESWL";T;"0";T;F;"";1996/12/31;"ESWL";F
+"11S09";"Dialysis";F;"0";T;F;"";1996/12/31;"Dialyysihoito";T
+"11S10";"Procedures for vesicointestinal fistula";T;"0";T;F;"11";/  /;"Vesikointestinaalisen fistelin leikkaus";T
+"11S90";"Blood vessel biopsy";T;"0";T;F;"";1996/12/31;"Verisuonibiopsia";F
+"11T01";"Special medication of urinary tract disease";F;"0";T;F;"";/  /;"";F
+"11T03";"Special demanding medication or unirnary tract disease";F;"0";T;F;"";/  /;"";F
+"11T04";"Special intravenous medication in urinary tract disease";F;"0";T;F;"";2008/11/30;"";T
+"11T05";"Special therapy for hypercalcemia in dialysis";F;"0";T;F;"";/  /;"";T
+"11V01";"Puncture of kidney and retroperitoneal space";F;"0";T;F;"";/  /;"";F
+"11V02";"Major urogenital intervention";F;"0";T;F;"";/  /;"";F
+"11V03";"Diagnostic physiological urogenital intervention";F;"0";T;F;"";/  /;"";F
+"11V04";"Minor urogenital intervention";F;"0";T;F;"";/  /;"";F
+"11V05";"Check-up of patient with dialysis";F;"0";T;F;"11";2011/06/13;"Check-up of patient with dialysis";T
+"12D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 12";F;"0";T;F;"";2004/08/10;"";T
+"12D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 12";F;"0";T;F;"";2005/01/17;"";T
+"12D61";"Diagnostic procedure of periferal vascular system in MDC 12";F;"0";T;F;"";2004/08/10;"";T
+"12D62";"Demanding diagnostic procedure of periferal vascular system in MDC 12";F;"0";T;F;"";2004/08/10;"";T
+"12E08";"Endoscopic ultrasound examination of prostata and seminal vesicles";F;"0";T;F;"12";2002/01/21;"";T
+"12E16";"Therapeutic endoscopy of urinary tract for male genitourinary problem";T;"0";T;F;"12";2002/01/21;"";F
+"12E18";"Endoscopy of male genital tract";T;"0";T;F;"12";2002/01/21;"";F
+"12O01";"Minor male productive system procedures";F;"0";T;F;"";/  /;"";F
+"12S01";"Major pelvic procedure, male";T;"1";T;T;"";1996/12/31;"Miehen lantionalueen vaativa leikkaus";T
+"12S02";"Penis procedure";T;"0";T;F;"";1996/12/31;"Peniksen leikkaus";F
+"12S03";"Testes procedure";T;"0";T;F;"";1996/12/31;"Kivesleikkaus";F
+"12S04";"Transurethral prostatectomy";T;"0";T;T;"";1996/12/31;"Transuretraalinen prostatektomia";F
+"12S05";"Circumcisions";T;"0";T;F;"";1996/12/31;"Ymp‰rileikkaus";T
+"12S07";"Male sterilization";T;"0";T;F;"";1996/12/31;"Miehen sterilisaatio";F
+"12S08";"Other male reproductive system OR procedure";T;"0";T;F;"";1996/12/31;"Muu miehen lis‰‰ntymiselinten toimenpide";F
+"12T01";"Local radiotherapy of prostate";F;"0";T;F;"";/  /;"";T
+"12T11";"Special medical therapy of male reproductive organs";F;"0";T;F;"";/  /;"";F
+"12T13";"Special demanding medical therapy of male reproductive system";F;"0";T;F;"";/  /;"";F
+"12V02";"Intervention of male genital organs";F;"0";T;F;"";/  /;"";F
+"13D01";"Minor gynecologic diagnostic radiology";F;"0";T;F;"";/  /;"";T
+"13D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 13";F;"0";T;F;"";/  /;"";T
+"13D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 13";F;"0";T;F;"";2004/08/10;"";T
+"13D61";"Diagnostic procedure of periferal vascular system in MDC 13";F;"0";T;F;"";2004/08/10;"";T
+"13D62";"Demanding diagnostic procedure of periferal vascular system in MDC 13";F;"0";T;F;"";2004/08/10;"";T
+"13E18";"Endoscopy of lower urinary tract for genitourinary problems in females";T;"0";T;F;"13";2002/01/21;"";F
+"13E19";"Endoscopy of female genital tract for gynecological problem";T;"0";T;F;"13";2002/01/21;"";F
+"13O01";"Major reproductive medicine outpatient procedure, short therapy";F;"0";T;F;"";/  /;"";T
+"13O02";"Minor reproductive medicine outpatient procedure";F;"0";T;F;"";/  /;"";F
+"13O03";"Gynegological biopsy";F;"0";T;F;"";/  /;"";F
+"13O04";"Other minor gynecologic outpatient procedure";F;"0";T;F;"";/  /;"";F
+"13S01";"Pelvic evisceration, radical hysterctomy or radical vulvectomy";T;"1";T;F;"";1996/12/31;"Lantion tyhjennys, laajennettu kohdunpoisto tai laajennettu em‰ttimenpoisto";T
+"13S02";"Uterine or adnexal procedure";T;"0";T;T;"";1996/12/31;"Kohdun tai sivuelinten leikkaus";F
+"13S03";"Laparoscopy or incisional tubal interruption";T;"0";T;F;"";1996/12/31;"Laparoskopia tai munatorvien katkaisu";T
+"13S04";"Vagina, cervix or vulva procedure";T;"0";T;F;"";1996/12/31;"Em‰ttimen, kohdunkaluan tai vulvan toimenpide";F
+"13S05";"Female reproductive system reconstructive procedure";T;"0";T;F;"";1996/12/31;"Niasen lis‰‰ntymiselinten korjaava leikkaus";T
+"13S06";"D&C, conization or radio-implant";T;"0";T;F;"";1996/12/31;"Laajennus ja kaavinta tai konisaatio tai paikallinen s‰dehoito";F
+"13S07";"Endoscopic tubal interruption";T;"0";T;F;"";1996/12/31;"Endoskooppinen munajohdinten tukkiminen";T
+"13S08";"Other female reproductive system OR procedure";T;"0";T;F;"";1996/12/31;"Muu naisen lis‰‰ntymiselinten toimenpide";F
+"13S20";"Laparatomy";F;"0";T;F;"13";2003/09/11;"Vatsaontelon tutkimusleikkaus";T
+"13S80";"Radiation therapy of female reproductive organs";F;"0";T;F;"13";/  /;"Naisen sukuelinten s‰dehoito";T
+"13V01";"Major reproductive medicine interventions";F;"0";T;F;"";/  /;"";T
+"13V02";"Minor reproductive medicine interventions";F;"0";T;F;"";/  /;"";T
+"13V04";"Gynecological biopsy";F;"0";T;F;"";/  /;"";F
+"13V05";"Gynecological ultrasonography";F;"0";T;F;"";/  /;"";T
+"13V06";"Other gynecological intervention";F;"0";T;F;"";/  /;"";F
+"14D01";"Diagnostic procedure of head, neck and central nervous system during prenancy";F;"0";T;F;"";/  /;"";T
+"14D02";"Demanding diagnostic procedure of head, neck and central nervous system during pregnancy";F;"0";T;F;"";/  /;"";T
+"14D09";"Obstetric ultrasound";F;"0";T;F;"";/  /;"";T
+"14D11";"Diagnostic procedure of endocrine organs during pregnancy";F;"0";T;F;"";/  /;"";T
+"14D51";"Obstetric diagnostic imiging  procedure";F;"0";T;F;"";2004/08/10;"";T
+"14D71";"Diagnostic procedure of breast during pregnancy";F;"0";T;F;"";/  /;"";T
+"14D72";"Demanding diagnostic procedure of breast during pregnancy";F;"0";T;F;"";/  /;"";T
+"14E11";"Gastroscopy in pregnancy";T;"0";T;F;"14";/  /;"Gastroskopia raskauden aikana";F
+"14O01";"Puncture of feturs or placenta";F;"0";T;F;"";/  /;"";T
+"14O02";"Other delivery related procedure";F;"0";T;F;"";/  /;"";F
+"14O03";"Medical abortion";F;"0";T;F;"";/  /;"";T
+"14O04";"Obstetric diagnostic procedure";F;"0";T;F;"";2009/07/13;"";F
+"14O05";"Fetus diagnostics";F;"0";T;F;"";2010/12/20;"";F
+"14S01";"Cesarean section";T;"0";T;T;"14";1996/12/31;"Sektio";T
+"14S02";"Sterilization or postpartum D&C";T;"0";T;F;"";1996/12/31;"Sterilisaatio tai synnytyksen j‰lkeinen kohdun laajennus ja kaavinta";T
+"14S03";"Other obstetric OR procedure";T;"0";T;F;"";1996/12/31;"Muu synnytykseen tai raskauteen liittyv‰ toimenpide";F
+"14S04";"Procedure of normal delivery";T;"0";T;F;"";1996/12/31;"Normaaliin synnytykseen liittyv‰ toimenpide";F
+"14S05";"OR procedure in abortion";T;"0";T;F;"";1996/12/31;"Keskenmenoon tai raskaudenkeskeytykseen liittyv‰ toimenpide";T
+"14S11";"Procedures for ectopic pregnancy";T;"0";T;F;"14";/  /;"";F
+"14S90";"Significant operation for obstetrical patient";T;"0";T;F;"";1996/12/31;"Obstetrisesti merkitt‰v‰ toimenpide";F
+"14V01";"Puncture of fetus and placenta";F;"0";T;F;"";/  /;"";F
+"14V02";"Pharmakolocigal abortion";F;"0";T;F;"";2008/05/20;"";F
+"14V03";"Intervetion for delivery";F;"0";T;F;"";/  /;"";T
+"14V04";"Obstetric ultrasonography";F;"0";T;F;"";/  /;"";T
+"15S01";"Major neonatal operation";T;"0";T;F;"";1998/11/29;"Laaja vastasyntyneen leikkaus";T
+"15S02";"Neonatal intensive care procedure";T;"0";T;F;"15";2000/05/13;"Vastasyntyneen tehohoidon toimenpide";F
+"15S03";"Minor neonatal procedure";T;"0";T;F;"";1998/11/18;"V‰h‰inen vastasyntyneen toimenpide";F
+"16D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 16";F;"0";T;F;"";/  /;"";T
+"16D61";"Diagnostic procedure of periferal vascular system in MDC 16";F;"0";T;F;"";2004/08/10;"";T
+"16D62";"Demanding diagnostic procedure of periferal vascular system in MDC 16";F;"0";T;F;"";2004/08/10;"";T
+"16O01";"Transfusion of other blood components or aferes";F;"0";T;F;"";/  /;"";T
+"16O02";"Transfusion of erythrocytes or whole blood";F;"0";T;F;"";/  /;"";T
+"16S01";"Splenectomy";T;"1";T;F;"";1996/12/31;"Pernan poisto";T
+"16S02";"Other OR procedure of the blood forming or immunological organs";T;"0";T;F;"";1996/12/31;"Muu vertamuodostuvien tai immunologisten elinten toimenpide";F
+"16T01";"Special medical therapy for hematologic disorders";F;"0";T;F;"";2008/01/16;"";F
+"16T02";"Demanding medical therapy for koagulation disorders";F;"0";T;F;"";/  /;"";T
+"16T03";"Special demanding medical therapy for koagulation disorders";F;"0";T;F;"";/  /;"";F
+"16V02";"Transfusion of other blood components";F;"0";T;F;"";/  /;"";T
+"16V03";"Diagnostic test of koagulation";F;"0";T;F;"";/  /;"";T
+"16V04";"Transfusion of erythrocytes or blood";F;"0";T;F;"";/  /;"";T
+"17E01";"Endoscopy of respiratory organs for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E02";"Tracheo-bronchial endoscopy for myeloproliferative problems";T;"0";T;F;"17";2002/01/21;"";F
+"17E03";"Endoscopy with stent insertion for myeloproliferative disease";F;"0";T;F;"17";2002/01/21;"";T
+"17E04";"Therapeutic enteroscpy for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E05";"Therapeutic endoscopy of lower gastrointestinal tract for myeloprolife";F;"0";T;F;"17";2002/01/21;"";T
+"17E06";"Other therapeutic endoscopy of upper gastrointestinal tract for myelop";T;"0";T;F;"17";2002/01/21;"";F
+"17E07";"Therapeutic rectoscopy for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E08";"Endoscopic ultrasound examination for myeloproliferative disease";F;"0";T;F;"17";2002/01/21;"";T
+"17E09";"Enteroscopy for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E10";"Colonoscopy for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E11";"Endoscopy of upper respiratory tract for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E12";"Rectosigmoideoscopy for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E13";"Endoscopic insertion of stent to biliary or pancreas for myeloprolifer";T;"0";T;F;"17";2002/01/21;"";F
+"17E14";"Other therapeutic endoscopy of biliary tract for myeloproliferative disease";T;"0";T;F;"17";2005/01/17;"";F
+"17E15";"Diagnostic endoscopy of biliary tract for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E16";"Therapeutic endoscopy of urinary tract for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E17";"Diagnostic endoscopy of upper urinary tract for myeloproliferative disease";T;"0";T;F;"17";2005/01/17;"";F
+"17E18";"Endoscopy of lower urinary tract for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E19";"Endoscopy of female genital tract for myeloproliferative disease";T;"0";T;F;"17";2002/01/21;"";F
+"17E20";"Endoscopic insertion of stent to respiratory tract";F;"0";T;F;"";/  /;"Stentin asettaminen hengitysteihin t‰hystyksess‰";F
+"17O01";"Stem cell collection";F;"0";T;F;"";/  /;"";F
+"17O02";"Aferesis";F;"0";T;F;"";/  /;"";T
+"17O03";"Bone marrow aspiration or biopsy";F;"0";T;F;"";/  /;"";F
+"17S01";"Major OR procedure in myeloproliferative diseases and disorders";T;"0";T;T;"";1996/12/31;"Myeloproliferatiivisen sairauden hoito, vaativa toimenpide";F
+"17S02";"Endoscopy";F;"0";T;F;"";1996/12/31;"Endoskopia";F
+"17S03";"Allogenic stem cell transplantation";F;"0";T;F;"";2004/05/30;"Allogeeninen kantasolusiirto";T
+"17S04";"Other stem cell transplantation";F;"0";T;F;"";2004/05/30;"Muut kantasolusiirto";T
+"17T01";"Special medical therapy of myeloproliferative diseases or neoplasms";F;"0";T;F;"";/  /;"";F
+"17T02";"Demanding medical therapy of myeloproliferative diseases or neoplasms";F;"0";T;F;"";/  /;"";F
+"17T03";"Special demanding medical therapy of myeloproliferative diseases or neoplasms";F;"0";T;F;"";/  /;"";F
+"17T04";"Cytarabine, intrathecal";F;"0";T;F;"";/  /;"";F
+"17T10";"Medication delivered for home use";F;"0";T;F;"";/  /;"";F
+"17V01";"Major aferesis or blood cell separation";F;"0";T;F;"";/  /;"";F
+"17V07";"Minor aferesis and blood cell separation";F;"0";T;F;"";2007/09/13;"";T
+"17V08";"Bone or bonemarrow biopsy";F;"0";T;F;"";2013/10/02;"";F
+"18T01";"Special medical therapy for infections";F;"0";T;F;"";2006/01/18;"";F
+"18T02";"Demanding medical therapy for infections";F;"0";T;F;"";2006/01/18;"";F
+"18T03";"Special demanding medical therapy for infections";F;"0";T;F;"";2006/01/18;"";F
+"18T04";"Gansiklovir";F;"0";T;F;"";/  /;"";T
+"18T05";"Special anfigungal agents";F;"0";T;F;"";/  /;"";T
+"18T50";"Linetsolid";F;"0";T;F;"";/  /;"";T
+"19O01";"Electroconvulsive therapy (ECT)";F;"0";T;F;"";/  /;"";T
+"19O02";"Antidepressive fototherapy";F;"0";T;F;"";/  /;"";T
+"19T01";"Special medical therapy for psychiatric problems";F;"0";T;F;"";/  /;"";F
+"19V01";"Psychosocial examination";F;"0";T;F;"";/  /;"";T
+"19V02";"Elelctroconvlulsive therapy";F;"0";T;F;"";/  /;"";T
+"19V03";"Psychological training";F;"0";T;F;"";/  /;"";T
+"19V04";"Antidepressive phototherapy";F;"0";T;F;"";2008/05/20;"";T
+"19V05";"Psychotherapy";F;"0";T;F;"";/  /;"";T
+"20S01";"Detoxification in alcohol or drug dependence";F;"0";T;F;"";1996/12/31;"Alkoholi- tai l‰‰kemyrkytyksen hoito";T
+"20S02";"Rehabilitation in alcoholism or drug depence";F;"0";T;F;"";1996/12/31;"Kuntoutus alkoholin tai l‰‰kkeiden v‰‰rink‰ytˆss‰";T
+"21D01";"Diagnostic procedure of head, neck and central nervous system for trauma";F;"0";T;F;"";2004/08/10;"";T
+"21D02";"Demanding diagnostic procedure of head, neck and central nervous system for trauma";F;"0";T;F;"";2005/01/17;"";T
+"21D21";"Diagnostic procedure of heart, large vessels and other intrathoracal organs for trauma";F;"0";T;F;"";2005/01/17;"";T
+"21D22";"Demanding diagnostic procedure of heart, large vessels and other intratho";F;"0";T;F;"";2004/08/10;"";T
+"21D31";"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs for trauma";F;"0";T;F;"";2005/01/17;"";T
+"21D32";"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs for trauma";F;"0";T;F;"";2005/01/17;"";T
+"21D41";"Diagnostic procedure of musculosceletal system for trauma";F;"0";T;F;"";2004/08/10;"";T
+"21D42";"Demanding diagnostic procedure of musculosceletal system for trauma";F;"0";T;F;"";2004/08/10;"";T
+"21E02";"Tracheo-bronchial endoscopy for foreign body removal";T;"0";T;F;"21";2002/01/21;"";F
+"21E03";"Esophagoscopy with insertion of stent for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E05";"Therapeutic endoscopy of lower gastrointestinal tract for trauma";F;"0";T;F;"21";2002/01/21;"";T
+"21E06";"Therapeutic endoscopy of upper gastrointestinal tract for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E09";"Enteroscopy for trauma";F;"0";T;F;"21";2002/01/21;"";T
+"21E10";"Colonoscopy for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E11";"Endoscopy of upper gastrointestinal tract for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E14";"Other therapeutic endoscopy of biliary tract for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E16";"Therapeutic endoscopy of urinary tract for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E17";"Diagnostic endoscopy of upper urinary tract for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E18";"Endoscopy of lower urinary tract for trauma";T;"0";T;F;"21";2002/01/21;"";F
+"21E19";"Endoscopy of female genital tract for trauma";F;"0";T;F;"21";2002/01/21;"";T
+"21E20";"Insertion of respiratory tract stent for trauma";F;"0";T;F;"";/  /;"Stentin asettamienen hengitysteihin vamman takia";F
+"21S01";"Debridement procedure in traumatic wound";F;"0";T;F;"";2006/04/25;"Vamman aiheuttaman haavan tai haavauman revisio";T
+"21S02";"Skin graft procedure for injuries";T;"0";T;F;"";1996/12/31;"Ihon siirto vamman hoidossa, ei palovamma";T
+"21S03";"Hand procedure for injuries";T;"0";T;F;"";1996/12/31;"K‰den leikkaus, vamma";F
+"21S04";"Craniotomy for trauma";T;"0";T;F;"";1996/12/31;"Kraniotomia vamman hoidossa";T
+"21S05";"Limb reattachment or hip or femur procedure for trauma";T;"0";T;F;"";1996/12/31;"Raajan takaisinistutus tai lonkan tai reiden leikkaus vamman hoidossa";F
+"21S09";"Other OR procedure for injuries";T;"0";T;T;"";1996/12/31;"Muu toimenpide vamman, myrkytyksen tai l‰‰kemyrkytyks";F
+"21S20";"Late treatment of burn";T;"0";T;F;"";/  /;"Palovamman j‰lkihoito";T
+"21S21";"Plastic procedures of hand with transplantation";F;"0";T;F;"21";2003/09/11;"K‰den kudossiirtoleikkaukset";T
+"21S30";"Reconstruction or reimplantation of hand or fingers";F;"0";T;F;"";2000/11/20;"K‰den tai sormien takaisinistutus tai rekonstruktio";T
+"21V01";"Forensic examination";F;"0";T;F;"";/  /;"";T
+"22E03";"Esophagoscopy with insertion of stent for treatment of burn";T;"0";T;F;"22";2002/01/21;"";F
+"22E06";"Therapeutic endoscopy of upper gastrointestinal tract for treatment of burn";T;"0";T;F;"22";2005/01/17;"";F
+"22E11";"Endoscopy of upper gastrointestinal tract for treatment of burn";T;"0";T;F;"22";2002/01/21;"";F
+"22S01";"Skin graft procedure for burns";T;"0";T;F;"";1996/12/31;"Ihon siirto palovamman hoidossa";F
+"22S02";"Wound debridement or other OR procedure for burns";T;"0";T;F;"";1996/12/31;"Ihon revisio tai muu toimenpide palovamman hoidossa";F
+"23O01";"Rehabilitation or therapy";F;"0";T;F;"";/  /;"";T
+"23O02";"Medicolegal examination";F;"0";T;F;"";/  /;"";T
+"23O03";"High intensity therapy";F;"0";T;F;"";/  /;"";T
+"23O04";"Implantation of pumping device";F;"0";T;F;"";/  /;"";T
+"23T01";"Demanding medication of pain";F;"0";T;F;"";/  /;"";T
+"30D71";"Diagnostic procedure of breast in MDC 30";F;"0";T;F;"";2004/08/10;"";T
+"30D72";"Demanding diagnostic procedure of breast in MDC 30";F;"0";T;F;"";2004/08/10;"";T
+"30O01";"Incision or puncture of breast";F;"0";T;F;"";/  /;"";F
+"30S03";"Total mastectomy or breast reconstruction";T;"1";T;T;"";2003/05/16;"Rintarauhasen poisto tai uudelleenmuovaus kokonaan";T
+"30S04";"Partial mastectomy or other breast procedure";T;"0";T;T;"";2003/05/16;"Rintarauhasen osittainen poisto tai muu rintaleikkaus";T
+"30S05";"Breast biopsy or local excision";T;"0";T;T;"";2003/05/16;"Rintarauhasen biopsia tai paikallisen muutoksen poisto";F
+"30S11";"Total reconstruction of breast";T;"1";T;F;"09";2003/09/11;"Rintarauhasen uudelleen muodostaminen";T
+"30S12";"Reduction mammoplasty";F;"0";T;F;"30";/  /;"Rintojen pienennys";T
+"30S99";"Other breast procedure";T;"0";T;F;"";2003/05/16;"Muu rinnan sairauden toimenpide";F
+"30V01";"Incision and puncture of breast";F;"0";T;F;"";/  /;"";F
+"40V01";"Intesive care intervention";F;"0";T;F;"";/  /;"";F
+"40V02";"Observation at intensive care unit";F;"0";T;F;"";2008/10/21;"";T
+"40V04";"Implantation of pumping device or injection gate";F;"0";T;F;"";/  /;"";F
+"40V06";"Major check-up of current therapy";F;"0";T;F;"";/  /;"";T
+"40V07";"Provocation test for allergy";F;"0";T;F;"";2008/05/20;"";T
+"40V08";"Occupational and environmental examination";F;"0";T;F;"";/  /;"";T
+"40V10";"Occupational and environmental mesurement";F;"0";F;F;"";2013/04/29;"";T
+"40V11";"Cannulation and cathetrisation of vein";F;"0";T;F;"";/  /;"";F
+"40V12";"Rinsing or removal of drainage";F;"0";T;F;"";/  /;"";T
+"40V13";"Major examination of body composition";F;"0";T;F;"";/  /;"";T
+"40V14";"Ultrasonography";F;"0";T;F;"";/  /;"";F
+"40V15";"Allergy and immunedeficiency examination";F;"0";T;F;"";/  /;"";T
+"40V18";"Check-up of patient with ongoing therapy";F;"0";T;F;"";/  /;"";T
+"40V19";"Discussion and counceling";F;"0";T;F;"";/  /;"";T
+"40V20";"Intravascular medication";F;"0";T;F;"";/  /;"";F
+"40V21";"Information and education";F;"0";T;F;"";2007/10/23;"";T
+"40V22";"Picture and voice recording";F;"0";T;F;"";/  /;"";T
+"40V23";"Pain test";F;"0";T;F;"";/  /;"";T
+"40V24";"Medication pump";F;"0";T;F;"";/  /;"";T
+"40V25";"Other major intervention for medication";F;"0";T;F;"";/  /;"";T
+"40V26";"Arterial cathetrisation";F;"0";T;F;"";/  /;"";T
+"40V27";"Minor intervention for medication";F;"0";T;F;"";/  /;"";T
+"40V28";"Other minor intervention";F;"0";T;F;"";/  /;"";F
+"40V29";"Minor examination of body composition";F;"0";T;F;"";/  /;"";T
+"40V30";"Observation";F;"0";T;F;"";/  /;"";T
+"40V31";"Checkup and maintenance of stomy";F;"0";T;F;"";/  /;"";T
+"40V32";"Logopedic therapy";F;"0";T;F;"";/  /;"";T
+"40V33";"Examination of communication, voice and speech";F;"0";T;F;"";/  /;"";T
+"40V34";"Oedema therapy";F;"0";T;F;"";/  /;"";T
+"40V35";"Neuromuscular diagnostic and therapeutic intervention";F;"0";T;F;"";/  /;"";F
+"40V36";"Medical aid interventions";F;"0";T;F;"";/  /;"";T
+"40V37";"Prosthesis testing and check-up";F;"0";T;F;"";/  /;"";T
+"40V38";"Motor function training";F;"0";T;F;"";/  /;"";T
+"40V39";"Administration of care";F;"0";T;F;"";/  /;"";T
+"40V40";"Bio-feedback";F;"0";T;F;"";/  /;"";T
+"40V41";"Physiologic and fuktional examination";F;"0";T;F;"";/  /;"";T
+"40V42";"Letter or telephone contact";F;"0";T;F;"";/  /;"";T
+"40V44";"Diagnostic and therapeutic use of light";F;"0";T;F;"";2008/05/20;"";T
+"40V45";"Major radiotherapy";F;"0";T;F;"";/  /;"";T
+"40V46";"Brachytherapy and isotope therapy";F;"0";T;F;"";/  /;"";T
+"40V47";"Minor radiotherapy";F;"0";T;F;"";/  /;"";T
+"40V48";"Preparation for radiotherapy";F;"0";T;F;"";/  /;"";T
+"40V49";"Consultation with relatives";F;"0";T;F;"";/  /;"";T
+"40V50";"Isotope examination";F;"0";T;F;"";/  /;"";T
+"40V51";"Pain analysis";F;"0";T;F;"";2008/05/20;"";T
+"40V52";"Pharmacological pain test";F;"0";T;F;"";2008/05/20;"";T
+"40V53";"Sensory test";F;"0";T;F;"";2008/05/20;"";T
+"40V54";"Sensory stimulation";F;"0";T;F;"";2008/05/20;"";T
+"90D01";"Diagnostic proc of head, neck and central nerv syst for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D02";"Demanding diagnostic proc of head, neck and central nerv syst for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D11";"Diagnostic procedure of endocrine organs for malignancy";F;"0";T;F;"";2004/08/10;"";T
+"90D21";"Diagnostic proc of heart, large vessels and other intrathoracal organs for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D22";"Demanding diagn proc of heart, large vessels and other intrathoracal organs for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D31";"Diagnostic proc of abdominal, retroperitoneal and pelvic organs for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D32";"Demanding diagnostic proc of abdominal, retroperitoneal and pelvic organs for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D41";"Diagnostic procedure of musculosceletal system for malignancy";F;"0";T;F;"";2004/08/10;"";T
+"90D42";"Demanding diagnostic procedure of musculosceletal system for malignancy";F;"0";T;F;"";2004/08/10;"";T
+"90D61";"Diagnostic procedure of periferal vascular system for malignancy";F;"0";T;F;"";2004/08/10;"";T
+"90D62";"Demanding diagnostic proc of periferal vascular system for malignancy";F;"0";T;F;"";2005/01/17;"";T
+"90D64";"Diagnostic procedure of lymfatic system for malignancy";F;"0";T;F;"";2004/08/10;"";T
+"90D91";"Dose design for radiotherapy of malignancy";F;"0";T;F;"";/  /;"";T
+"90D92";"Demanding dose design for radiotherapy of malignancy";F;"0";T;F;"";2004/08/10;"";T
+"90O01";"Acute intensive care";F;"0";T;F;"";/  /;"";F
+"90O02";"Allergy test";F;"0";T;F;"";2007/11/13;"";T
+"90O03";"Hypebar oxygen therapy";F;"0";T;F;"";/  /;"";T
+"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";T
+"90S01";"Parenteral administration";F;"0";T;F;"";/  /;"";F
+"90S02";"Intravenous administration";F;"0";T;F;"";/  /;"";T
+"90S03";"Intravesical administraiton";F;"0";T;F;"";/  /;"";T
+"90S04";"Intramuscular, subcutaneous or other special route";F;"0";T;F;"";2008/01/15;"";T
+"90S05";"Intrathecal";F;"0";T;F;"";/  /;"";T
+"90S06";"Inhalation";F;"0";T;F;"";/  /;"";T
+"90T01";"Cytostatic drug";F;"0";T;F;"";/  /;"";F
+"90T02";"Complex cytostatic drug";F;"0";T;F;"";/  /;"";F
+"90T03";"Complex cytostatic therapy";F;"0";T;F;"";/  /;"";F
+"90T05";"Radiotherapy";F;"0";T;F;"17";/  /;"S‰dehoito";T
+"90T06";"Radiotherapy with large shaped fields";F;"0";T;F;"";/  /;"";T
+"90T07";"Stereotactic radiotherapy or demanding isotope therapy";F;"0";T;F;"";/  /;"";T
+"90T08";"Special demanding isotope therapy";F;"0";T;F;"";/  /;"";T
+"90T10";"Planning for radiotherapy - complexity level 0";F;"0";T;F;"";2013/05/21;"";F
+"90T11";"Planning for radiotherapy - complexity level 1";F;"0";T;F;"";2013/10/24;"";T
+"90T12";"Planning for radiotherapy - complexity level 2";F;"0";T;F;"";2013/10/24;"";T
+"90T13";"Planning for radiotherapy - complexity level 3";F;"0";T;F;"";2013/10/24;"";T
+"90T14";"Planning for radiotherapy - complexity level 4";F;"0";T;F;"";2013/10/24;"";T
+"90T15";"Planning for radiotherapy - complexity level 4";F;"0";F;F;"";2013/10/24;"";T
+"90W00";"Medical doctor";F;"0";T;F;"";/  /;"L‰‰k‰ri";T
+"90W10";"Nurse";F;"0";T;F;"";/  /;"Hoitajak‰ynti";T
+"90W20";"Other special worker";F;"0";T;F;"";/  /;"Muu erityistyˆntekij‰k‰ynti";T
+"90W30";"Indirect patient contact";F;"0";T;F;"";/  /;"";T
+"91W00";"Special observation";F;"0";T;F;"";2005/10/06;"";T
+"91W10";"Team care";F;"0";T;F;"";/  /;"";T
+"91W20";"Treating group of patients";F;"0";T;F;"";/  /;"";T
+"99O01";"Minor procedure on nervous system";F;"0";T;F;"99";2002/01/21;"";F
+"99O02";"Minor procedure on eye and surrounding";F;"0";T;F;"99";2002/01/21;"";F
+"99O03";"Minor procedure on ear, nose, mouth and throat";F;"0";T;F;"99";2002/01/21;"";F
+"99O04";"Minor procedure on respiratory organs";F;"0";T;F;"99";2002/01/21;"";F
+"99O05";"Minor procedure on circulatory system";F;"0";T;F;"99";2002/01/21;"";F
+"99O06";"Minor procedure on gastrointestinal system and abdomen";F;"0";T;F;"99";2002/01/21;"";F
+"99O07";"Minor procedure on liver, biliary system and pancreas";F;"0";T;F;"99";2002/01/21;"";F
+"99O08";"Minor procedure on musculosceletal system";F;"0";T;F;"99";2002/01/21;"";F
+"99O09";"Minor procedure on skin and subcutaneous tissue";F;"0";T;F;"99";2004/09/30;"";F
+"99O10";"Minor procedure on endocrine diseases";F;"0";T;F;"99";2002/01/21;"";F
+"99O11";"Minor procedure on kidney and urinary system";F;"0";T;F;"99";2002/01/21;"";F
+"99O12";"Minor procedure on male genitourinary system";F;"0";T;F;"99";2002/01/21;"";F
+"99O13";"Minor procedure on female genital tract";F;"0";T;F;"99";2002/01/21;"";F
+"99O14";"Minor procedure for pregnancy and delivery";F;"0";T;F;"99";2002/01/21;"";F
+"99O16";"Minor procedure for diseases of blood and blood forming organs";F;"0";T;F;"99";2002/01/21;"";F
+"99O18";"Minor procedure for infectious diseases";F;"0";T;F;"99";2002/01/21;"";T
+"99O19";"Minor procedure for psychic disorders";F;"0";F;F;"99";2002/01/21;"";T
+"99O19";"Minor procedure in psychiatric care";F;"0";T;F;"19";/  /;"Psykiatrinen pientoimenpide";T
+"99O30";"Minor procedure on breast";F;"0";T;F;"30";2002/04/04;"Rinnan pientoimenpide";F
+"99O99";"Outpatient procedure";F;"0";T;F;"";/  /;"Polikliininen tp";F
+"99S01";"Prostatic OR procedure";T;"0";T;F;"12";1996/12/31;"Prostatan leikkaus";F
+"99S10";"Secondary repair operation";T;"0";T;F;"";/  /;"Sekundaarinen korjausleikkaus";T
+"99S11";"General anesthesy";T;"0";T;F;"";/  /;"Yleisanestesia";T
+"99S12";"Urgent procedure";T;"0";T;F;"";2003/09/09;"P‰ivystystoimenpide";F
+"99S13";"Bilateral procedure";T;"0";F;F;"";2012/10/03;"Toimenpide tehd‰‰n molemmille puolille";F
+"99S61";"Demanding hormone therapy";T;"0";T;F;"";/  /;"";T
+"99S71";"Demanding biomodifier therapy";T;"0";T;F;"10";2003/09/11;"Vaativa hoito biovasteenmuuntajilla";T
+"99S80";"Standard cytostatic therapy";T;"0";T;F;"";2003/09/11;"Tavallinen sytostaattihoito";F
+"99S81";"Special cytostatic therapy";T;"0";T;F;"";2003/09/11;"Erityistason sytostaattihoito";T
+"99S82";"Demanding special cytostatic therapy";T;"0";T;F;"";/  /;"Vaativa erityistason sytostaaattihoito";T
+"99S89";"Simple cytostatic therapy";T;"0";T;F;"";/  /;"Yksinkertainen sytostaattihoito";T
+"99S90";"Extensive procedure - list created during the exporting process";T;" ";T;F;"";/  /;"";T
+"99T00";"Complex medication, unspecified";F;"0";T;F;"";2012/01/26;"";F
+"99V02";"Major supporting procedure for dialysis";F;"0";T;F;"";/  /;"";F
+"99V20";"Outpatient visit";F;"0";T;F;"";/  /;"";T
+"99V21";"Group of patients";F;"0";T;F;"";/  /;"";T
+"99V22";"Team of care providors";F;"0";T;F;"";/  /;"";T
+"99V30";"Occupational therapist";F;"0";T;F;"";/  /;"";T
+"99V31";"Audiotherapist";F;"0";T;F;"";/  /;"";T
+"99V32";"Dietician";F;"0";T;F;"";/  /;"";T
+"99V33";"Social worker";F;"0";T;F;"";/  /;"";T
+"99V34";"Logotherapist";F;"0";T;F;"";/  /;"";T
+"99V35";"Medical doctor";F;"0";T;F;"";/  /;"";T
+"99V36";"Orthopist";F;"0";T;F;"";/  /;"";T
+"99V37";"Psychologist";F;"0";T;F;"";/  /;"";T
+"99V38";"Physiotherapist";F;"0";T;F;"";/  /;"";T
+"99V39";"Nurse";F;"0";T;F;"";/  /;"";T
+"99V40";"Psychiatric nurse";F;"0";T;F;"";2008/05/20;"";T
+"99V41";"Nursing asssistant";F;"0";T;F;"";/  /;"";T
+"99V42";"Other care worker";F;"0";T;F;"";/  /;"";T
+"99V43";"Midwife";F;"0";T;F;"";2012/10/12;"";T

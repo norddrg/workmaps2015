@@ -1,0 +1,1 @@
+procedure ei_orselect drgtptlc_first=codedo while not eof()  lc_code=code  lc_or=.f.  seek lc_code  do while code=lc_code and not eof()    if vartype='OR'      lc_or=.t.    endif    select drgtpt    skip  enddo  if lc_first=lc_code    loop  endif  if lc_or=.f.    select csp    seek lc_code    do cspnaytto    return  endifenddoreturn  

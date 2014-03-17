@@ -1,0 +1,27 @@
+"00";"Alkuryhmät";"Pre MDC";F;F
+"01";"Hermojärjestelmän sairaudet";"Diseases of the nervous system";T;F
+"02";"Silmän sairaudet";"Diseases and disorders of the eye";F;F
+"03";"Korvan, nenän ja kurkun sairaudet";"Diseases and disorders of the ear, nose, mouth and throat";T;F
+"04";"Hengityselinten sairaudet";"Diseases and disorders of the respiratory system";T;F
+"05";"Verenkiertoelinten sairaudet";"Diseases and disorders of the circulatory system";T;F
+"06";"Ruuansulatuskanavan sairaudet";"Diseases and disorders of the digestive system";T;F
+"07";"Maksan, sappiteiden ja haiman sairaudet";"Diseases and disorders of the hepatobiliary system and pancreas";T;F
+"08";"Tuki- ja liikuntaelinten ja sidekudoksen sairaudet";"Diseases and disorders of the musculoskeletal system and connective tissue";T;F
+"09";"Ihon, ihonalaisen kudoksen ja rintrauhasen sairaus";"Diseases and disorders of the skin, subcutaneous tissue and breast";T;F
+"10";"Endokriiniset, nutritionaaliset ja metaboliset  sairaudet";"Endocrine, nutritional and metabolic diseases and disorders";T;F
+"11";"Munuaisten ja virtsateiden sairaudet";"Diseases and disorders of the kidney and urinary tract";T;F
+"12";"Miehen lisääntymisjärjestelmän sairaudet";"Diseases and disorders of the male reproductive system";T;F
+"13";"Naisen lisääntymisjärjestelmän sairaudet";"Diseases and disorders of the female reproductive system";T;F
+"14";"Raskaus, synnytys ja lapsivuodekausi";"Pregnancy, childbirth and puerperium";T;F
+"15";"Vastasyntyneen tai perinataalikaudella alkavat";"Newborns and other neonates with conditionis originatig n the perinatal period";F;F
+"16";"Veren , vertamuodostavan kudoksen ja immunologisen järjestelmän sairaudet";"Diseases and disorders of the blood and blood forming organs and immunological disorders";F;F
+"17";"Myeloproliferatiiviset sairaudet ja erilaistumattomat kasvaimet";"Myeloproliferative diseases and disorders, poorly differentiated neoplasms";T;F
+"18";"Infektiosairaudet";"Infetious and parasitic diseases";F;F
+"19";"Psyykkiset sairaudet";"Mental diseases and disorders";F;F
+"20";"Alkoholin/huumeiden aiheuttamat orgaaniset psyykkiset häiriöt";"Alcohol/drug use and alcohol/drug induced organic mental disorders";T;F
+"21";"Vammat, myrkytykset ja lääkkeiden toksiset vaikutukset";"Injuries, poisonings and toxic effects of drugs";T;F
+"22";"Palovammat";"Burns";F;F
+"23";"Terveydentilaan vaikuttavia tekijöitä";"Factors influencing health status and other contacts with health services";F;F
+"24";"Usean elinryhmän merkittävä vamma";"Multiple significant trauma";F;F
+"25";"HIV-infektio";"HIV infection";F;F
+"98";"Naisen/miehen lisääntymiselinten sairaus";"Diseases and disorders of male/female reprodutive organs";T;F

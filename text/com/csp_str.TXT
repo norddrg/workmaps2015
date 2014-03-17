@@ -1,0 +1,13 @@
+
+Structure for table:                  I:\NDMS2015\WORKMAPS\NCSP\COM\CSP.DBF
+ Number of data records:      10988   
+Date of last update:          14/01/29
+ Code Page:                   1252    
+                Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
+                    1        USEDATE                                                              Date                                                                                                       8                                                                                                              No
+                    2        CODE                                                                 Character                                                                                                  7                                                   Asc   Machine                                              No
+                    3        TEXT                                                                 Character                                                                                                200                                                                                                              No
+                    4        RELEASED                                                             Logical                                                                                                    1                                                                                                              No
+                    5        TEHTY                                                                Logical                                                                                                    1                                                                                                              No
+                    6        NCSP                                                                 Character                                                                                                  7                                                   Asc   Machine                                              No
+** Total **                                                                                                                                                                                                225

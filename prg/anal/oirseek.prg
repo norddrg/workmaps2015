@@ -1,0 +1,1 @@
+procedure oirseekselect analset order to ordseek drglogic.orddo analohjedo analnayton key label F11 do analkatson key label f10 do logiikkareturn

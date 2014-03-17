@@ -1,0 +1,1 @@
+Procedure txtcreaselect anallc_dbf=dbf()lc_analname=substr(lc_dbf, 1,rat('.',lc_dbf)-1)copy all to (lc_analname+'.txt') type delimited with ';'do grpohjewait window nowait (lc_analname+'.txt -file created')return

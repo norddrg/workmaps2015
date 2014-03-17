@@ -1,0 +1,14 @@
+PROCEDURE koodiapu
+SET FILTER TO AT('-',C1)=0
+GOTO top
+lc_apu=TRIM(c1)
+DO WHILE NOT EOF()
+  SKIP
+  IF c1=lc_apu
+    SKIP -1
+    replace c3 WITH 'H'
+    skip
+  ENDIF
+  lc_apu=TRIM(c1)
+ENDDO
+RETURN

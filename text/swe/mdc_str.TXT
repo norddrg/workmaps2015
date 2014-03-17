@@ -1,0 +1,12 @@
+
+Structure for table:                   I:\NDMS2015\WORKMAPS\TABL_DEF\MDC.DBF
+ Number of data records:      27      
+Date of last update:          13/12/09
+ Code Page:                   865     
+                Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
+                    1        MDC                                                                  Character                                                                                                  2                                                                                                              No
+                    2        FINISH                                                               Character                                                                                                 90                                                                                                              No
+                    3        ENGLISH                                                              Character                                                                                                 90                                                                                                              No
+                    4        SCC                                                                  Logical                                                                                                    1                                                                                                              No
+                    5        MCC                                                                  Logical                                                                                                    1                                                                                                              No
+** Total **                                                                                                                                                                                                185

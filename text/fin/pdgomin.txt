@@ -1,0 +1,59 @@
+"";"No principal diagnosis property";"Ei päädiagnoosiominaisuutta";"Ingen huvuddiagnosegenskap";T;1997/05/17;T
+"00P01";"Adult diagnosis";"Aikuisen diagnoosi";"Vuxen diagnos";T;1998/09/04;T
+"00P02";"Child diagnosis";"Lapsen diagnoosi";"Barn diagnos";T;1998/09/04;T
+"00P11";"Face, mouth or neck diagnosis";"Kasvojen, kaulan tai niska diagnoosi";"Diagnos gällande ansiktet eller halsen";T;1998/09/04;T
+"00P21";"Fresh trauma or fresh trauma related diagnosis";"Tuore vamma tai vammaan liittyvä diagnoosi";"Färsk skada eller relaterad diagnos";T;1998/09/04;T
+"00P90";"Unusable principal dx in Norwegian DRG";"";"";T;2007/11/22;T
+"01P01";"Potentiallly intracranial vascular structural changes";"Mahdollinen kallonsisäinen verisuonten rakennemuutos";"";T;2000/10/03;T
+"01P02";"Traumatic subdural hematoma";"Traumaattinen kovakalvonalainen vuoto";"";T;2000/11/23;T
+"01P03";"Central nervous system tumour";"Keskushermoston kasvain";"Centrala nervsystemets tillväxt";T;2003/09/05;T
+"01P04";"Carpal tunnel syndrome";"Carpal tunnel syndrome";"Carpal tunnel syndrome";T;2009/04/17;T
+"01P05";"Diabetes complicating nervous system";"Diabetes complicating nervous system";"Diabetes complicating nervous system";T;2009/04/21;T
+"01P06";"Headache";"Päänsärky";"Huvudvärk";T;2009/07/09;T
+"01P10";"Stroke or SAB";"Stroke or SAB";"Stroke or SAB";T;/  /;T
+"01P11";"Demyelinating disease";"Demyelinating disease";"Demyelinating disease";T;/  /;T
+"01P12";"Spinal problem";"Spinal problem";"Spinal problem";T;/  /;T
+"01P13";"Intracranial injury";"Intracranial injury";"Intracranial injury";T;/  /;T
+"01P14";"Brain tumor";"Brain tumor";"Brain tumor";T;/  /;T
+"01P15";"Other neurological problem";"Other neurological problem";"Other neurological problem";T;/  /;T
+"02P01";"Possible lesion of orbital area";"Mahdollinen silmäkuopan alueen lesio";"Möjlig lesioni orbita regionen";T;2009/04/21;F
+"02P02";"Diabetes complicating eye";"Diabetes complicating eye";"Diabetes complicating eye";T;2009/04/21;T
+"03P01";"Potential mouth problem";"";"";T;2012/06/05;T
+"04P01";"Respiratory failure";"Respiratory failure";"Respiratory failure";T;/  /;T
+"05P01";"Aortic aneurysm";"";"";T;/  /;T
+"05P02";"Diabetes complicating circulatory system";"Diabetes complicating circulatory system";"Diabetes complicating circulatory system";T;/  /;T
+"05P10";"Circulatory and respiratory problem";"Circulatory and respiratory problem";"Circulatory and respiratory problem";T;/  /;T
+"06P01";"Diagnoses with possible g.i. hemorrhage";"Tila johon voi liittyä g-i-verenvuot";"Diagnos med möjlig g-i-blödning";T;1998/09/05;T
+"07P01";"LIver and biliary problem";"";"";T;2012/03/09;T
+"08P01";"Fracture of lower arm";"Kyynärvarren murtuma";"Fraktur i underarm";T;1998/10/23;T
+"08P02";"Cancer of long bones of lower extremity";"Alaraajan pitkien luiden syöpä";"";F;2000/11/20;T
+"08P03";"Cutaneous diagnosis with relation to deep infection";"";"";T;2006/04/26;T
+"08P04";"Autoimmuine connective tissue disease";"Immunoloinen sidekudossairaus";"Immunlogiisk bindvävnadssjuka";T;2008/11/27;T
+"08P10";"Arthrosis, arthritis or other connective tissue disease";"Arthrosis, arthritis or other connective tissue disease";"Arthrosis, arthritis or other connective tissue disease";T;/  /;T
+"09P01";"Tumor of skin";"Ihokasvain";"Hudtumör";T;2009/05/27;T
+"09P02";"Papulosquamous skin disorder";"Ihon hilseily";"Hud mjältning";T;2009/05/27;T
+"09P03";"Dermatitis and eczem";"Ihottuma";"Dermatit";T;2009/05/27;T
+"10P01";"Secondary hyperparathyroidism of renal origin";"Munuaisperäinen sekundaarinen hyperparatyreoosi";"Sekudär hyperparatyreos orsakad av njursvikt";T;2004/05/30;T
+"10P02";"Thyroid dysfunction";"Kilpirauhasen toimintahäiriö";"Sköldkörtel dysfunktion";T;2009/05/27;T
+"10P03";"Obesity";"Lihavuus";"Obesitet";T;2009/05/31;T
+"11P01";"Diabetes complicating urinary system";"Diabetes complicating urinary system";"Diabetes complicating urinary system";T;2009/04/17;T
+"12P01";"Prostate cancer";"";"";T;2012/03/10;T
+"13P01";"Ovarian or adnexal malignancy";"Munasarjojen ja kohdun maligniteetti";"Ovarila eller adnexal malignität";T;1998/09/04;T
+"13P02";"Other malignancy of female reproductive system";"Muu naisen lissäntymisjärjestelmän maligniteetti";"Annan malignität i  kvinnans reproduktiv system";T;1998/09/04;T
+"15P01";"Not significant for newborn";"Not significant for newborn";"Not significant for newborn";T;/  /;T
+"18P01";"HIV or HIV related main condition";"HIV tai HIV:hen liittyvä päädiagnoosi";"HIV eller HIV relaterad huvudtillstånd";T;2004/04/21;T
+"18P02";"Genital herpes";"Genitaaliherpes";"Herpes genitals";T;2008/11/27;T
+"18P03";"Principal dx potentially causing severe sepsis";"";"";T;2011/02/10;T
+"21P01";"Complication of trauma";"Vamman komplikaatio";"Komplikation av trauma";T;1998/10/24;T
+"21P10";"Trauma";"Trauma";"Trauma";T;/  /;T
+"23P01";"Non-defined diagnosis";"";"";T;2006/04/27;T
+"23P03";"Special palliative care";"";"";T;2013/05/16;T
+"23P10";"Amputation, not traumatic";"Amputation, not traumatic";"Amputation, not traumatic";T;/  /;T
+"23P90";"Outpatient rehablitiation";"";"";T;2007/11/07;T
+"30P01";"Breast cancer prophylaxis";"Breast cancer prophylaxis";"Breast cancer prophylaxis";T;2011/06/08;T
+"40P80";"Same day emergency care conditions";"";"";T;2013/05/15;T
+"90P01";"Pain";"Kipu";"Smätta";T;2009/06/06;T
+"90P11";"Severe or general pain";"";"";T;2012/04/19;T
+"90P80";"Not acceptable princible dx for short therapy";"";"";T;2007/11/22;T
+"90P81";"Healthy persion with specific contact";"";"";T;2008/01/31;T
+"99P01";"Infertilty";"Heldelmättömyys";"infertilitet";T;2009/05/31;T

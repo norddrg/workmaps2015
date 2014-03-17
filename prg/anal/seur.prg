@@ -1,0 +1,1 @@
+Procedure seurpush key clearselect analif not eof()  skipendifif eof()  wait window 'You are already at the end!!' nowait  skip -1endifdo luokitusdo analnaytpop keyreturn

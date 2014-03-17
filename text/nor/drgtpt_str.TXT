@@ -1,0 +1,13 @@
+
+Structure for table:                      F:\NDMS\NDMS2014\WORKMAPS\TABL_DEF\NOR\DRGTPT.DBF
+ Number of data records:      51537   
+Date of last update:          14/02/24
+ Code Page:                   1252    
+                Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
+                    1        CHDATE                                                               Date                                                                                                       8                                                                                                              No
+                    2        CODE                                                                 Character                                                                                                  7                                                                                                              No
+                    3        VALID                                                                Logical                                                                                                    1                                                                                                              No
+                    4        CODE_NC                                                              Character                                                                                                  6                                                   Asc   Machine                                              No
+                    5        VARTYPE                                                              Character                                                                                                  8                                                                                                              No
+                    6        VARVAL                                                               Character                                                                                                  5                                                                                                              No
+** Total **                                                                                                                                                                                                 36

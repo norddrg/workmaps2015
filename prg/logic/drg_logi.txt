@@ -1,0 +1,5 @@
+@PARAFILTR ON =
+
+A00.0 
+AAA00  
+036D  

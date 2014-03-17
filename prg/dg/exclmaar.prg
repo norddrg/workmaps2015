@@ -1,0 +1,1 @@
+procedure exclmaarlc_alias=alias()if not (alias()='ICD_10' or alias()='DG' or alias()='KOMPLEX')  select icd_10endiflc_oir=codelc_eti=d_codedo exclmaa2 do dgnayttoreturn
