@@ -1,6 +1,6 @@
 
 Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\TPOMIN.DBF
- Number of data records:      847     
+ Number of data records:      848     
 Date of last update:          14/04/09
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
