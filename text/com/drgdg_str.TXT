@@ -1,5 +1,5 @@
 
-Structure for table:                     I:\NDMS2015\WORKMAPS\TABL_DEF\COM\DRGDG.DBF
+Structure for table:                      D:\NDMS2015\WORKMAPS\TABL_DEF\COM\DRGDG.DBF
  Number of data records:      62507   
 Date of last update:          14/03/17
  Code Page:                   1252    

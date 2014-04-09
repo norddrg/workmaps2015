@@ -1,7 +1,7 @@
 
-Structure for table:                  I:\NDMS2015\WORKMAPS\NCSP\SWE\CSP.DBF
+Structure for table:                   D:\NDMS2015\WORKMAPS\NCSP\SWE\CSP.DBF
  Number of data records:      10605   
-Date of last update:          14/03/13
+Date of last update:          14/03/18
 Memo file block size:         64
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step

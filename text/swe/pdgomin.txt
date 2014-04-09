@@ -25,6 +25,7 @@
 "05P10";"Circulatory and respiratory problem";"Circulatory and respiratory problem";"Circulatory and respiratory problem";T;/  /;T
 "06P01";"Diagnoses with possible g.i. hemorrhage";"Tila johon voi liittyä g-i-verenvuot";"Diagnos med möjlig g-i-blödning";T;1998/09/05;T
 "07P01";"LIver and biliary problem";"";"";T;2012/03/09;T
+"07P14";"Potential hepatobiliary problem during pregnancy";"";"";T;2014/03/31;T
 "08P01";"Fracture of lower arm";"Kyynärvarren murtuma";"Fraktur i underarm";T;1998/10/23;T
 "08P02";"Cancer of long bones of lower extremity";"Alaraajan pitkien luiden syöpä";"";F;2000/11/20;T
 "08P03";"Cutaneous diagnosis with relation to deep infection";"";"";T;2006/04/26;T

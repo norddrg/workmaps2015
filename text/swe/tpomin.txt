@@ -40,6 +40,7 @@
 "01S27";"Operations for intracranial aneurysm and other vascular lesions";T;"1";T;F;"01";/  /;"Aivovaltimopullistumien leikkaukset ja muut aivoverisuonileikkaukset";T
 "01S28";"Shunt operations on ventricles of brain and  intracerebral cysts";T;"1";T;F;"01";2003/09/05;"Aivonestekierron s‰‰telytoimenpiteet";T
 "01S29";"Evacuation of chronic subdural haematoma";T;"1";T;F;"01";/  /;"Verihyytym‰n poisto kovan aivokalvon alta, krooninen subduraali";T
+"01S30";"Intracranial endovascular trombolysis";F;"1";T;F;"01";2014/03/31;"";T
 "01S50";"Stereotactic intracranial radiotherapy";T;"0";T;F;"01";/  /;"Stereotactic intracranial radiotherapy";T
 "01S51";"Insertion or replacement of nervous system central stimulation device";T;"0";T;F;"";2011/02/08;"";T
 "01T01";"Special medication in neurology";F;"0";T;F;"";2006/01/17;"";F

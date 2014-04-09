@@ -1,5 +1,5 @@
 
-Structure for table:                    I:\NDMS2015\WORKMAPS\TABL_DEF\COM\DRGTPT.DBF
+Structure for table:                     D:\NDMS2015\WORKMAPS\TABL_DEF\COM\DRGTPT.DBF
  Number of data records:      42306   
 Date of last update:          13/12/19
  Code Page:                   1252    
