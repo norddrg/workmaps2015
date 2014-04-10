@@ -41,6 +41,7 @@
 "12P01";"Prostate cancer";"";"";T;2012/03/10;T
 "13P01";"Ovarian or adnexal malignancy";"Munasarjojen ja kohdun maligniteetti";"Ovarila eller adnexal malignität";T;1998/09/04;T
 "13P02";"Other malignancy of female reproductive system";"Muu naisen lissäntymisjärjestelmän maligniteetti";"Annan malignität i  kvinnans reproduktiv system";T;1998/09/04;T
+"14P01";"Delivery";"";"";T;2014/04/10;T
 "15P01";"Not significant for newborn";"Not significant for newborn";"Not significant for newborn";T;/  /;T
 "18P01";"HIV or HIV related main condition";"HIV tai HIV:hen liittyvä päädiagnoosi";"HIV eller HIV relaterad huvudtillstånd";T;2004/04/21;T
 "18P02";"Genital herpes";"Genitaaliherpes";"Herpes genitals";T;2008/11/27;T

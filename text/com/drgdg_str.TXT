@@ -1,6 +1,6 @@
 
 Structure for table:                      E:\NDMS2015\WORKMAPS\TABL_DEF\COM\DRGDG.DBF
- Number of data records:      62511   
+ Number of data records:      62539   
 Date of last update:          14/04/10
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
