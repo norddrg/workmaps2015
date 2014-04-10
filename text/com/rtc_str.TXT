@@ -1,5 +1,5 @@
 
-Structure for table:                   D:\NDMS2015\WORKMAPS\TABL_DEF\RTC.DBF
+Structure for table:                   E:\NDMS2015\WORKMAPS\TABL_DEF\RTC.DBF
  Number of data records:      12      
 Date of last update:          13/12/09
  Code Page:                   1252    
