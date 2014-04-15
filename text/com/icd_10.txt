@@ -1374,7 +1374,7 @@
 "C1850";"";" ";/  /;T;T;"C1850";"";T;F;"Malignant neoplasm of splenic flexure";F;"";""
 "C1860";"";" ";/  /;T;T;"C1860";"";T;F;"Malignant neoplasm of descending colon";F;"";""
 "C1870";"";" ";/  /;T;T;"C1870";"";T;F;"Malignant neoplasm of sigmoid colon";F;"";""
-"C1880";"";" ";/  /;T;T;"C1880";"";T;F;"Malignant neoplasm of overlapping lesion of colon";F;"";""
+"C1880";"";" ";/  /;T;T;"C1880";"";T;F;"Malignant neoplasm of overlapping lesion of colon";T;"";""
 "C1890";"";" ";/  /;T;T;"C1890";"";T;F;"Malignant neoplasm of colon, unspecified";F;"";""
 "C1900";"";" ";/  /;T;T;"C1900";"";T;F;"Malignant neoplasm of rectosigmoid junction";F;"";""
 "C2000";"";" ";/  /;T;T;"C2000";"";T;F;"Malignant neoplasm of rectum";F;"";""

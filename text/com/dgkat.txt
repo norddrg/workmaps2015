@@ -1,3 +1,6 @@
+"";"";F;/  /;F;"";"";"";""
+"";"";F;/  /;F;"";"";"";""
+"";"";T;2014/04/12;F;"";"";"";""
 "00";"PreMDC DRG";T;2002/11/30;F;"PreMDC DRG";"Pre-MDC";"Utan MGH hópa";""
 "00M00";"Code does not belong to any major diagnosis category";T;1999/07/01;F;"Koodi ei kuulu mihinkään diagnoosien pääryhmään";"";"";""
 "01";"Diseases of nervous system";T;2002/11/28;T;"Hermojärjestelmän sairaudet";"Sjukdomar i nervsystemet";"Sjúkdómar í taugakerfi";""
