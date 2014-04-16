@@ -1,7 +1,7 @@
 
-Structure for table:                    F:\NDMS\NDMS2014\WORKMAPS\TABL_DEF\RTC.DBF
+Structure for table:                   D:\NDMS2015\WORKMAPS\TABL_DEF\RTC.DBF
  Number of data records:      12      
-Date of last update:          14/01/14
+Date of last update:          13/12/09
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        CODE                                                                 Character                                                                                                  1                                                   Asc   Machine                                              No

@@ -8,6 +8,7 @@
 "00S07";"Cardiac transplantation";T;"0";T;F;"";/  /;"";T
 "00S10";"General anesthesia";F;"0";T;F;"";/  /;"General anesthesia";T
 "00S20";"Intensive circulatory support";T;"1";T;F;"";2013/06/07;"";T
+"00S21";" Use of IABP";F;"1";T;F;"";2014/04/10;"";T
 "00S99";"Unspecified or impossible procedure";T;"0";T;F;"";2007/04/22;"";F
 "01D01";"Diagnostic procedure of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2004/08/10;"";T
 "01D02";"Demanding diagnostic proc of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2005/01/17;"";F
@@ -24,7 +25,7 @@
 "01O10";"Neurological minor diagnostic interventions";F;"0";T;F;"";/  /;"";F
 "01O11";"Neuropsychological diagnostic interventions";T;"0";T;F;"";/  /;"";F
 "01O12";"Botuinum toxin therapy";T;"0";T;F;"01";/  /;"";F
-"01O13";"Treatemnt with baclofen";T;"0";T;F;"";2009/07/06;"";F
+"01O13";"Treatemnt with baclofen";F;"0";T;F;"";2009/07/06;"";F
 "01S01";"Craniotomy or intracranial procedure";T;"1";T;F;"01";1996/12/31;"Kraniotomia tai kallonsis‰inen toimenpide";T
 "01S02";"Spinal procedure";T;"1";T;F;"";1996/12/31;"Selk‰ytimen leikkaus";T
 "01S03";"Extracranial vascular procedure";T;"0";T;F;"";1996/12/31;"Kallonulkoinen p‰‰n verisuonten leikkaus";T
@@ -40,6 +41,7 @@
 "01S27";"Operations for intracranial aneurysm and other vascular lesions";T;"1";T;F;"01";/  /;"Aivovaltimopullistumien leikkaukset ja muut aivoverisuonileikkaukset";T
 "01S28";"Shunt operations on ventricles of brain and  intracerebral cysts";T;"1";T;F;"01";2003/09/05;"Aivonestekierron s‰‰telytoimenpiteet";T
 "01S29";"Evacuation of chronic subdural haematoma";T;"1";T;F;"01";/  /;"Verihyytym‰n poisto kovan aivokalvon alta, krooninen subduraali";T
+"01S30";"Intracranial endovascular trombolysis";F;"1";T;F;"01";2014/04/09;"";T
 "01S50";"Stereotactic intracranial radiotherapy";T;"0";T;F;"01";/  /;"Stereotactic intracranial radiotherapy";T
 "01S51";"Insertion or replacement of nervous system central stimulation device";T;"0";T;F;"";2011/02/08;"";T
 "01T01";"Special medication in neurology";F;"0";T;F;"";2006/01/17;"";F
@@ -61,7 +63,7 @@
 "02O03";"Minor outpatient eye procedure";T;"0";T;F;"";/  /;"";F
 "02O04";"Minor diagnostic intervention of eye";F;"0";T;F;"";/  /;"";F
 "02O05";"Medication to eye";T;"0";T;F;"";/  /;"";F
-"02O06";"Specific drug treatment for eye disorders";T;"0";T;F;"02";2009/07/06;"";F
+"02O06";"Specific drug treatment for eye disorders";F;"0";T;F;"02";2009/07/06;"";F
 "02S01";"Procedure of the orbit";T;"0";T;F;"";1996/12/31;"Silm‰kuopan leikkaus";F
 "02S02";"Procedure of the retina";T;"0";T;F;"";1996/12/31;"Verkkokalvon toimenpide";F
 "02S03";"Extraocular procedure but not procedure of the orbit";T;"0";T;F;"";1996/12/31;"Silm‰nulkoinen leikkaus, ei silm‰munan leikkaus";F
@@ -104,7 +106,7 @@
 "03O10";"Other tooth procedure";T;"0";T;F;"";2013/10/21;"";F
 "03O11";"Complex diagnostic procedures for ENM problems";T;"0";T;F;"";2007/11/11;"";F
 "03O12";"Local diagnostic procedures for ENM problems";T;"0";T;F;"";/  /;"";F
-"03O13";"Major ENT procedures for children";T;"0";T;F;"";2013/10/14;"";F
+"03O13";"Major ENT procedures for children";F;"0";T;F;"";2013/10/14;"";F
 "03S01";"Major head or neck procedure";T;"1";T;F;"";1996/12/31;"Laaja p‰‰n tai niskan leikkaus";T
 "03S02";"Myringtomy";F;"0";T;F;"";1996/12/31;"T‰rykalvon avaus";F
 "03S03";"Tonsillectomy or adenoidectomy";T;"0";T;F;"";1996/12/31;"Nielurisan  tai kitarisan poisto";T
@@ -720,7 +722,7 @@
 "40V21";"Information and education";F;"0";T;F;"";2007/10/23;"";F
 "40V22";"Picture and voice recording";F;"0";T;F;"";/  /;"";T
 "40V23";"Pain test";F;"0";T;F;"";/  /;"";F
-"40V24";"Medication pump";T;"0";T;F;"";/  /;"";F
+"40V24";"Medication pump";F;"0";T;F;"";/  /;"";F
 "40V25";"Other major intervention for medication";F;"0";T;F;"";/  /;"";F
 "40V26";"Arterial cathetrisation";F;"0";T;F;"";/  /;"";F
 "40V27";"Minor intervention for medication";F;"0";T;F;"";/  /;"";F

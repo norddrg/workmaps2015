@@ -1,5 +1,5 @@
 
-Structure for table:                    E:\NDMS2015\WORKMAPS\TABL_DEF\DGKAT.DBF
+Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\DGKAT.DBF
  Number of data records:      225     
 Date of last update:          14/04/12
  Code Page:                   865     

@@ -8,6 +8,7 @@
 "00S07";"Cardiac transplantation";T;"0";T;F;"";/  /;"";T
 "00S10";"General anesthesia";F;"0";T;F;"";/  /;"General anesthesia";T
 "00S20";"Intensive circulatory support";T;"1";T;F;"";2013/06/07;"";T
+"00S21";" Use of IABP";T;"1";T;F;"";2014/04/10;"";T
 "00S99";"Unspecified or impossible procedure";T;"0";T;F;"";2007/04/22;"";F
 "01D01";"Diagnostic procedure of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2004/08/10;"";T
 "01D02";"Demanding diagnostic proc of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2005/01/17;"";T
@@ -40,6 +41,7 @@
 "01S27";"Operations for intracranial aneurysm and other vascular lesions";T;"1";T;F;"01";/  /;"Aivovaltimopullistumien leikkaukset ja muut aivoverisuonileikkaukset";T
 "01S28";"Shunt operations on ventricles of brain and  intracerebral cysts";T;"1";T;F;"01";2003/09/05;"Aivonestekierron s‰‰telytoimenpiteet";T
 "01S29";"Evacuation of chronic subdural haematoma";T;"1";T;F;"01";/  /;"Verihyytym‰n poisto kovan aivokalvon alta, krooninen subduraali";T
+"01S30";"Intracranial endovascular trombolysis";T;"1";T;F;"01";2014/04/09;"";T
 "01S50";"Stereotactic intracranial radiotherapy";T;"0";T;F;"01";/  /;"Stereotactic intracranial radiotherapy";T
 "01S51";"Insertion or replacement of nervous system central stimulation device";T;"0";T;F;"";2011/02/08;"";T
 "01T01";"Special medication in neurology";F;"0";T;F;"";2006/01/17;"";F

@@ -1,7 +1,7 @@
 
-Structure for table:                      F:\NDMS\NDMS2014\WORKMAPS\TABL_DEF\EST\DRGTPT.DBF
- Number of data records:      48887   
-Date of last update:          14/02/24
+Structure for table:                     D:\NDMS2015\WORKMAPS\TABL_DEF\EST\DRGTPT.DBF
+ Number of data records:      48892   
+Date of last update:          14/04/10
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        CHDATE                                                               Date                                                                                                       8                                                                                                              No

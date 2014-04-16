@@ -1,5 +1,5 @@
 
-Structure for table:                    F:\NDMS\NDMS2014\WORKMAPS\ICD_10\NOR\ICD_10.DBF
+Structure for table:                  D:\NDMS2015\WORKMAPS\ICD_10\NOR\ICD_10.DBF
  Number of data records:      20624   
 Date of last update:          14/03/17
  Code Page:                   1252    

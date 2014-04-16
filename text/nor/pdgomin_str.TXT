@@ -1,7 +1,7 @@
 
-Structure for table:                      F:\NDMS\NDMS2014\WORKMAPS\TABL_DEF\PDGOMIN.DBF
- Number of data records:      59      
-Date of last update:          13/12/09
+Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\PDGOMIN.DBF
+ Number of data records:      61      
+Date of last update:          14/04/10
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        PDGPROP                                                              Character                                                                                                  5                                                   Asc   Machine                                              No

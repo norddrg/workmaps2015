@@ -672,7 +672,7 @@
 "385B";"15";"Eftirmeðferð vegna nýburavanda eða síðar tilkomins nýburavanda";"Follow-up care of neonatal problems or delayed neonatal prob";T;2008/06/27;"385B"
 "385C";"15";"Eftirmeðferð nýbura, fæðingarþyngd undir 1000 grömm";"Eftirmeðferð nýbura, fæðingarþyngd undir 1000 grömm";T;2013/11/04;"385C"
 "386N";"15";"Nýburi, fæðingarþyngd undir 1000 grömm";"Neonate, birthweight  under 1000 g";T;2008/06/27;"386N"
-"387N";"15";"Neonate, birthweight 1000-1499 g";"Neonate, birthweight 1000-1499 g";T;2009/05/06;"387N"
+"387N";"15";"Neonate, birthweight 1000-1499 g";"Neonate, birthweight 1000-1499 g";F;2009/05/06;"387N"
 "388A";"15";"Nýburi, fæðingarþyngd 1500-2499 grömm, með margháttuð vandamál";"Neonate, birthweight 1500-2499 g or other immaturity with mu";T;2008/06/27;"388A"
 "388B";"15";"Nýburi, fæðingarþyngd 1500-2499 grömm, án margháttaðra vandamála";"Neonate, birthweight 1500-2499 g or other immaturity w/o mul";T;2008/06/27;"388B"
 "388C";"15";"Alvarleg öndunarvandamál hjá fyrirbura";"Severe respiratory problem of premature infant";T;2009/05/06;"388C"

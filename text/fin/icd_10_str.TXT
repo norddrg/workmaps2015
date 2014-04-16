@@ -1,5 +1,5 @@
 
-Structure for table:                I:\NDMS2015\WORKMAPS\ICD_10\FIN\ICD_10.DBF
+Structure for table:                 D:\NDMS2015\WORKMAPS\ICD_10\FIN\ICD_10.DBF
  Number of data records:      12866   
 Date of last update:          14/02/27
  Code Page:                   1252    

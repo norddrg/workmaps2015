@@ -1,7 +1,7 @@
 
-Structure for table:                     F:\NDMS\NDMS2014\WORKMAPS\TABL_DEF\MDC.DBF
+Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\MDC.DBF
  Number of data records:      27      
-Date of last update:          14/01/14
+Date of last update:          13/12/09
  Code Page:                   865     
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        MDC                                                                  Character                                                                                                  2                                                                                                              No

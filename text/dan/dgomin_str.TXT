@@ -1,7 +1,7 @@
 
-Structure for table:                     F:\NDMS\NDMS2014\WORKMAPS\TABL_DEF\DGOMIN.DBF
+Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\DGOMIN.DBF
  Number of data records:      218     
-Date of last update:          14/03/06
+Date of last update:          14/04/16
  Code Page:                   865     
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        DGPROP                                                               Character                                                                                                  5                                                                                                              No

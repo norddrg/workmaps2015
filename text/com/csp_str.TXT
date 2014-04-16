@@ -1,5 +1,5 @@
 
-Structure for table:                   E:\NDMS2015\WORKMAPS\NCSP\COM\CSP.DBF
+Structure for table:                   D:\NDMS2015\WORKMAPS\NCSP\COM\CSP.DBF
  Number of data records:      10988   
 Date of last update:          14/04/14
  Code Page:                   1252    

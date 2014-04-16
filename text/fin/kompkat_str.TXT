@@ -1,7 +1,7 @@
 
-Structure for table:                    I:\NDMS2015\WORKMAPS\TABL_DEF\KOMPKAT.DBF
- Number of data records:      396     
-Date of last update:          14/03/17
+Structure for table:                     D:\NDMS2015\WORKMAPS\TABL_DEF\KOMPKAT.DBF
+ Number of data records:      400     
+Date of last update:          14/04/16
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        COMPL                                                                Character                                                                                                  5                                                                                                              No

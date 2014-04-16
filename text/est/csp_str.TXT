@@ -1,5 +1,5 @@
 
-Structure for table:                    F:\NDMS\NDMS2014\WORKMAPS\NCSP\EST\CSP.DBF
+Structure for table:                   D:\NDMS2015\WORKMAPS\NCSP\EST\CSP.DBF
  Number of data records:      8029    
 Date of last update:          14/01/15
 Memo file block size:         64
