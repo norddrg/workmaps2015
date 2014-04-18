@@ -1,6 +1,6 @@
 
 Structure for table:                      D:\NDMS2015\WORKMAPS\TABL_DEF\SWE\DRGDG.DBF
- Number of data records:      90190   
+ Number of data records:      90202   
 Date of last update:          14/04/16
 Memo file block size:         64
  Code Page:                   1252    
