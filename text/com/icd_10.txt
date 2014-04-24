@@ -13153,7 +13153,7 @@
 "Z4090";"";" ";/  /;T;T;"Z4090";"";T;F;"Prophylactic surgery, unspecified";F;"";""
 "Z4100";"";" ";/  /;T;T;"Z4100";"";T;F;"Hair transplant";F;"";""
 "Z4110";"";" ";/  /;T;T;"Z4110";"";T;F;"Other plastic surgery for unacceptable cosmetic appearance";F;"";""
-"Z4120";"";" ";/  /;T;T;"Z4120";"";T;F;"Routine and ritual circumcision";F;"";""
+"Z4120";"";" ";/  /;T;T;"Z4120";"";T;F;"Routine and ritual circumcision";T;"";""
 "Z4130";"";" ";/  /;T;T;"Z4130";"";T;F;"Ear piercing";F;"";""
 "Z4180";"";" ";/  /;T;T;"Z4180";"";T;F;"Other procedures for purposes other than remedying health state";F;"";""
 "Z4190";"";" ";/  /;T;T;"Z4190";"";T;F;"Procedure for purposes other than remedying health state, unspecified";F;"";""

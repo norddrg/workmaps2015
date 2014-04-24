@@ -1,7 +1,7 @@
 
 Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\TPOMIN.DBF
  Number of data records:      850     
-Date of last update:          14/04/18
+Date of last update:          14/04/23
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        PROCPROP                                                             Character                                                                                                  5                                                   Asc   Machine                                              No

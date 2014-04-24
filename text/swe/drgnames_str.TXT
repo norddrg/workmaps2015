@@ -1,5 +1,5 @@
 
-Structure for table:                       D:\NDMS2015\WORKMAPS\TABL_DEF\SWE\DRGNAMES.DBF
+Structure for table:                       E:\NDMS2015\WORKMAPS\TABL_DEF\SWE\DRGNAMES.DBF
  Number of data records:      1232    
 Date of last update:          14/04/16
  Code Page:                   1252    

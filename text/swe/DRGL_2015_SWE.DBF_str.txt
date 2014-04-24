@@ -1,5 +1,5 @@
 
-Structure for table:                       D:\NDMS2015\WORKMAPS\TABL_DEF\DRGL_2015_SWE.DBF
+Structure for table:                      E:\NDMS2015\WORKMAPS\TABL_DEF\DRGL_2015_SWE.DBF
  Number of data records:      3202    
 Date of last update:          14/04/16
  Code Page:                   1252    

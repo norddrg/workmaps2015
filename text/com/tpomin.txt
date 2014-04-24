@@ -26,14 +26,14 @@
 "01O10";"Neurological minor diagnostic interventions";F;"0";T;F;"";/  /;"";F
 "01O11";"Neuropsychological diagnostic interventions";F;"0";T;F;"";/  /;"";F
 "01O12";"Botuinum toxin therapy";F;"0";T;F;"01";/  /;"";F
-"01O13";"Treatemnt with baclofen";F;"0";T;F;"";2009/07/06;"";T
+"01O13";"Treatemnt with baclofen";F;"0";T;F;"";2009/07/06;"";F
 "01S01";"Craniotomy or intracranial procedure";T;"1";T;F;"01";1996/12/31;"Kraniotomia tai kallonsis‰inen toimenpide";T
 "01S02";"Spinal procedure";T;"1";T;F;"";1996/12/31;"Selk‰ytimen leikkaus";T
 "01S03";"Extracranial vascular procedure";T;"0";T;F;"";1996/12/31;"Kallonulkoinen p‰‰n verisuonten leikkaus";F
 "01S04";"Median nerve operation";T;"0";T;F;"";1996/12/31;"N. medianus leikkaus";T
 "01S05";"Peripheral or cranial nerve or other nervous system procedure";T;"0";T;T;"";1996/12/31;"Hermon leikkaus tai muu neurologisen sairauden leikkaus";F
 "01S20";"Plastic procedure of pharynx";F;"0";T;F;"";1996/12/31;"Nielunalueen plastinen leikkaus";T
-"01S21";"Procedures of sympathic nervous system";T;"0";T;F;"";1997/08/08;"Sympaattisen hermoston toimenpide";T
+"01S21";"Procedures of sympathic nervous system";T;"1";T;F;"";2014/04/23;"Sympaattisen hermoston toimenpide";T
 "01S22";"Operation for intracranial tumor";F;"0";T;F;"";/  /;"Kallon sis‰isen kasvaimen leikkaus";T
 "01S23";"Intracranial vascular operation";F;"0";T;F;"";2000/10/03;"Kallonsis‰inen verisuonitoimenpide";T
 "01S24";"Intracranial liquor operation";F;"0";T;F;"";/  /;"Kallonsis‰inen toimenpide selk‰ydinnesteen ohjaamiseksi";T
@@ -64,7 +64,7 @@
 "02O03";"Minor outpatient eye procedure";F;"0";T;F;"";/  /;"";F
 "02O04";"Minor diagnostic intervention of eye";F;"0";T;F;"";/  /;"";F
 "02O05";"Medication to eye";F;"0";T;F;"";/  /;"";F
-"02O06";"Specific drug treatment for eye disorders";F;"0";T;F;"02";2009/07/06;"";T
+"02O06";"Specific drug treatment for eye disorders";F;"0";T;F;"02";2009/07/06;"";F
 "02S01";"Procedure of the orbit";T;"0";T;F;"";1996/12/31;"Silm‰kuopan leikkaus";F
 "02S02";"Procedure of the retina";T;"0";T;F;"";1996/12/31;"Verkkokalvon toimenpide";F
 "02S03";"Extraocular procedure but not procedure of the orbit";T;"0";T;F;"";1996/12/31;"Silm‰nulkoinen leikkaus, ei silm‰munan leikkaus";F
