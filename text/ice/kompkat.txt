@@ -242,6 +242,7 @@
 "09C06";"";"Chronic ulcer of leg";T;1996/12/31;T;"S‰‰rihaava"
 "09C07";"";"Pemfigus or pemfigoid";T;1996/12/31;T;"Pemfigus tai pemfigoidi"
 "09C08";"";"Toxic erythema";T;1996/12/31;T;"Toksinen eryteema"
+"09C09";"";"Skin mucosis";T;2014/04/29;F;""
 "10C01";"";"Cystic fibrosis";T;1996/12/31;T;"Kystinen fibroosi"
 "10C02";"";"Complicated diabetes";T;1996/12/31;T;"Komplisoitunut diabetes"
 "10C03";"";"Cushing syndrome";T;1996/12/31;T;"Cushing oireyhtym‰"

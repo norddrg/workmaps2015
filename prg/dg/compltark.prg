@@ -124,10 +124,18 @@ procedure COMPLTARK
 	    clt_code=code
 	    clt_dcode=space(6)
         clt_compl=compl
-	    seek substr(clt_code,1,5)
-	    do while substr(clt_code,1,5)=trim(code) and not eof()
+        SELECT icd_10
+        SEEK SUBSTR(clt_code,1,5)
+        icdw_par=code_w
+        SEEK clt_code
+        icdw=code_w
+        icddw=d_code_w
+        SELECT komplex
+        IF icdw=icdw_par OR icddw=icdw
+ 	     seek substr(clt_code,1,5)
+	     do while substr(clt_code,1,5)=trim(code) and not eof()
 	      lc_compl=compl
-	      seek clt_code+space(7)+SUBSTR(lc_compl,1,2)+SUBSTR(lc_compl,4,2)
+	      seek clt_code+space(6)+SUBSTR(lc_compl,1,2)+SUBSTR(lc_compl,4,2)
 	      if not found ()
 			APPEND BLANK
 			REPLACE compl WITH lc_compl, code WITH clt_code, d_code WITH clt_dcode, Valid WITH .T., chdate WITH date()
@@ -135,15 +143,16 @@ procedure COMPLTARK
 			select icd_10
 			seek komplex.code
 			do exclmaar
-	      endif
-	      select komplex
-	      seek substr(clt_code,1,5)+' '+space(6)+SUBSTR(lc_compl,1,2)+SUBSTR(lc_compl,4,2)
-	      skip
-	      do while d_code<>' ' and not eof()
-	        skip
-	      enddo
-	    enddo
-        seek clt_code+space(6)+SUBSTR(clt_compl,1,2)+SUBSTR(clt_compl,4,2)
+	       endif
+	       select komplex
+	       seek substr(clt_code,1,5)+' '+space(6)+SUBSTR(lc_compl,1,2)+SUBSTR(lc_compl,4,2)
+	       skip
+	       do while d_code<>' ' and not eof()
+	         skip
+	       enddo
+	     enddo
+         seek clt_code+space(6)+SUBSTR(clt_compl,1,2)+SUBSTR(clt_compl,4,2)
+        endif
 	  endif
 	  select komplex
 	  skip

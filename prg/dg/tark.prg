@@ -25,6 +25,11 @@ do WHILE NOT EOF()
 	lc_pois=.F.
 	if lc_code=dg.code AND lc_dcode=dg.d_code AND lc_val=dg.varval
 		lc_pois=.T.
+		DELETE
+		IF NOT EOF()
+		  SKIP
+		  LOOP 
+		ENDIF 
 	endif
 	if dg.VARTYPE='DGCAT'
 		do CASE
@@ -131,6 +136,7 @@ do WHILE NOT EOF()
 		SKIP
 	endif
 ENDDO
+pack
 on KEY label ctrl+T do COMPLTARK
 do COMPLTARK
 return

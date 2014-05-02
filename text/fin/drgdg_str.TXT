@@ -1,7 +1,7 @@
 
-Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\FIN\DRGDG.DBF
- Number of data records:      55153   
-Date of last update:          14/04/15
+Structure for table:                   I:\NDMS2015\WORKMAPS\TABL_DEF\FIN\DRGDG.DBF
+ Number of data records:      55189   
+Date of last update:          14/04/24
 Memo file block size:         64
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step

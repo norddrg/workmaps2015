@@ -1,7 +1,7 @@
 
-Structure for table:                      E:\NDMS2015\WORKMAPS\TABL_DEF\DRGL_2015_SWE.DBF
- Number of data records:      3202    
-Date of last update:          14/04/16
+Structure for table:                    I:\NDMS2015\WORKMAPS\TABL_DEF\DRGL_2015_FIN.DBF
+ Number of data records:      3373    
+Date of last update:          14/04/29
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        ORD                                                                  Character                                                                                                 10                                                   Asc   Machine                                              No

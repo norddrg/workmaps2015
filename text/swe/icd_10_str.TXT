@@ -1,5 +1,5 @@
 
-Structure for table:                  E:\NDMS2015\WORKMAPS\ICD_10\SWE\ICD_10.DBF
+Structure for table:                  I:\NDMS2015\WORKMAPS\ICD_10\SWE\ICD_10.DBF
  Number of data records:      34569   
 Date of last update:          14/03/14
  Code Page:                   1252    

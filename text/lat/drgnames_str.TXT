@@ -1,5 +1,5 @@
 
-Structure for table:                      D:\NDMS2015\WORKMAPS\TABL_DEF\LAT\DRGNAMES.DBF
+Structure for table:                     I:\NDMS2015\WORKMAPS\TABL_DEF\LAT\DRGNAMES.DBF
  Number of data records:      2424    
 Date of last update:          14/04/16
  Code Page:                   1252    

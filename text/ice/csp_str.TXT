@@ -1,7 +1,7 @@
 
 Structure for table:                  D:\NDMS2015\WORKMAPS\NCSP\ICE\CSP.DBF
- Number of data records:      10106   
-Date of last update:          14/01/15
+ Number of data records:      10101   
+Date of last update:          14/04/29
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        USEDATE                                                              Date                                                                                                       8                                                                                                              No

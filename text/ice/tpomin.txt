@@ -9,6 +9,7 @@
 "00S10";"General anesthesia";F;"0";T;F;"";/  /;"General anesthesia";T
 "00S20";"Intensive circulatory support";T;"1";T;F;"";2013/06/07;"";T
 "00S21";" Use of IABP";F;"1";T;F;"";2014/04/10;"";T
+"00S30";"Free microvascular graft";F;"1";T;F;"";2014/04/16;"";T
 "00S99";"Unspecified or impossible procedure";T;"0";T;F;"";2007/04/22;"";F
 "01D01";"Diagnostic procedure of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2004/08/10;"";F
 "01D02";"Demanding diagnostic proc of head, neck and central nervous system in MDC 01";F;"0";T;F;"";2005/01/17;"";F
@@ -32,7 +33,7 @@
 "01S04";"Median nerve operation";T;"0";T;F;"";1996/12/31;"N. medianus leikkaus";T
 "01S05";"Peripheral or cranial nerve or other nervous system procedure";T;"0";T;T;"";1996/12/31;"Hermon leikkaus tai muu neurologisen sairauden leikkaus";F
 "01S20";"Plastic procedure of pharynx";F;"0";T;F;"";1996/12/31;"Nielunalueen plastinen leikkaus";T
-"01S21";"Procedures of sympathic nervous system";T;"0";T;F;"";1997/08/08;"Sympaattisen hermoston toimenpide";T
+"01S21";"Procedures of sympathic nervous system";T;"1";T;F;"";2014/04/23;"Sympaattisen hermoston toimenpide";T
 "01S22";"Operation for intracranial tumor";F;"0";T;F;"";/  /;"Kallon sis‰isen kasvaimen leikkaus";T
 "01S23";"Intracranial vascular operation";F;"0";T;F;"";2000/10/03;"Kallonsis‰inen verisuonitoimenpide";T
 "01S24";"Intracranial liquor operation";F;"0";T;F;"";/  /;"Kallonsis‰inen toimenpide selk‰ydinnesteen ohjaamiseksi";T
@@ -106,7 +107,7 @@
 "03O10";"Other tooth procedure";T;"0";T;F;"";2013/10/21;"";F
 "03O11";"Complex diagnostic procedures for ENM problems";T;"0";T;F;"";2007/11/11;"";F
 "03O12";"Local diagnostic procedures for ENM problems";T;"0";T;F;"";/  /;"";F
-"03O13";"Major ENT procedures for children";F;"0";T;F;"";2013/10/14;"";T
+"03O13";"Major ENT procedures for children";F;"0";T;F;"";2013/10/14;"";F
 "03S01";"Major head or neck procedure";T;"1";T;F;"";1996/12/31;"Laaja p‰‰n tai niskan leikkaus";T
 "03S02";"Myringtomy";F;"0";T;F;"";1996/12/31;"T‰rykalvon avaus";F
 "03S03";"Tonsillectomy or adenoidectomy";T;"0";T;F;"";1996/12/31;"Nielurisan  tai kitarisan poisto";T
