@@ -1,7 +1,7 @@
 
-Structure for table:                I:\NDMS2015\WORKMAPS\ICD_10\FIN\ICD_10.DBF
+Structure for table:                 E:\NDMS2015\WORKMAPS\ICD_10\FIN\ICD_10.DBF
  Number of data records:      12866   
-Date of last update:          14/02/27
+Date of last update:          14/05/03
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        CODE                                                                 Character                                                                                                  6                                                                                                              No

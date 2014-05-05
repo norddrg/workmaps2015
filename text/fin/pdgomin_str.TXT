@@ -1,5 +1,5 @@
 
-Structure for table:                   I:\NDMS2015\WORKMAPS\TABL_DEF\PDGOMIN.DBF
+Structure for table:                    E:\NDMS2015\WORKMAPS\TABL_DEF\PDGOMIN.DBF
  Number of data records:      61      
 Date of last update:          14/04/23
  Code Page:                   1252    
