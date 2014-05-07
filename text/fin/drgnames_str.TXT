@@ -1,7 +1,7 @@
 
-Structure for table:                     E:\NDMS2015\WORKMAPS\TABL_DEF\FIN\DRGNAMES.DBF
- Number of data records:      2422    
-Date of last update:          14/05/05
+Structure for table:                     D:\NDMS2015\WORKMAPS\TABL_DEF\FIN\DRGNAMES.DBF
+ Number of data records:      2423    
+Date of last update:          14/05/07
  Code Page:                   1252    
                 Field        Field Name                                                           Type                                                                                                   Width                           Dec                   Index   Collate                                           Nulls                              Next                              Step
                     1        DRG                                                                  Character                                                                                                  5                                                   Asc   Machine                                              No

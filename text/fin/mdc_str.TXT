@@ -1,5 +1,5 @@
 
-Structure for table:                   E:\NDMS2015\WORKMAPS\TABL_DEF\MDC.DBF
+Structure for table:                    D:\NDMS2015\WORKMAPS\TABL_DEF\MDC.DBF
  Number of data records:      27      
 Date of last update:          13/12/09
  Code Page:                   865     
